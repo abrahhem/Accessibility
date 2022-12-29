@@ -36,7 +36,7 @@ window.onload = () => {
     });
 };
 
-const serverUrl = "http://localhost:8080/";
+const serverUrl = "https://accessibility.onrender.com/";
 
 const container = document.getElementById('cont');
 const toggle = () => {

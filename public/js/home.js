@@ -20,7 +20,7 @@ window.onload = () => {
 
 };
 
-const serverUrl = "http://localhost:8080/";
+const serverUrl = "https://accessibility.onrender.com/";
 
 const userName  = document.getElementById("user-name");
 const userImg   = document.getElementById("user-image");
