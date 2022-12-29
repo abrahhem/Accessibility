@@ -1,0 +1,1282 @@
+20-12-22 12:28 -> connected to mongoDB
+20-12-22 12:41 -> connected to mongoDB
+20-12-22 12:42 -> connected to mongoDB
+20-12-22 12:42 -> connected to mongoDB
+20-12-22 12:45 -> Getting all users.
+20-12-22 12:46 -> connected to mongoDB
+20-12-22 12:47 -> connected to mongoDB
+20-12-22 12:47 -> Getting all users.
+20-12-22 12:50 -> connected to mongoDB
+20-12-22 12:50 -> Getting all users.
+20-12-22 12:50 -> Getting all users.
+20-12-22 12:52 -> Delete user aa$maiol.com.
+20-12-22 12:52 -> Getting all users.
+20-12-22 12:52 -> connected to mongoDB
+20-12-22 12:52 -> Getting all users.
+20-12-22 12:52 -> Delete user aa$maiol.com.
+20-12-22 12:53 -> connected to mongoDB
+20-12-22 01:06 -> Getting all users.
+20-12-22 01:06 -> Getting all users.
+20-12-22 01:06 -> Delete user aa$maiol.com.
+20-12-22 01:08 -> connected to mongoDB
+20-12-22 01:09 -> connected to mongoDB
+20-12-22 01:15 -> connected to mongoDB
+20-12-22 01:15 -> connected to mongoDB
+20-12-22 01:16 -> connected to mongoDB
+20-12-22 01:16 -> connected to mongoDB
+20-12-22 01:16 -> Getting all users.
+20-12-22 01:17 -> Delete user aa$maiol.com.
+20-12-22 01:17 -> Getting all users.
+20-12-22 01:18 -> connected to mongoDB
+20-12-22 01:18 -> Getting all users.
+20-12-22 01:18 -> Delete user aa$maiol.com.
+20-12-22 01:18 -> connected to mongoDB
+20-12-22 01:19 -> Getting all users.
+20-12-22 01:19 -> Delete user aa$maiol.com.
+20-12-22 01:19 -> connected to mongoDB
+20-12-22 01:23 -> connected to mongoDB
+20-12-22 01:23 -> Getting all users.
+20-12-22 01:23 -> Getting user aa$maiol.com.
+20-12-22 01:23 -> connected to mongoDB
+20-12-22 01:24 -> Getting all users.
+20-12-22 01:25 -> connected to mongoDB
+20-12-22 01:25 -> Getting all users.
+20-12-22 01:25 -> connected to mongoDB
+20-12-22 01:25 -> Getting all users.
+20-12-22 01:25 -> Getting user aa$maiol.com.
+20-12-22 01:26 -> Getting all users.
+20-12-22 01:26 -> Delete user aa$maiol.com.
+20-12-22 01:26 -> Getting all users.
+20-12-22 01:27 -> Getting all users.
+20-12-22 01:27 -> Getting all users.
+20-12-22 01:27 -> Getting all users.
+20-12-22 01:27 -> Delete user aa$maiol.com.
+20-12-22 01:28 -> connected to mongoDB
+20-12-22 01:33 -> connected to mongoDB
+20-12-22 01:33 -> Getting all users.
+20-12-22 01:33 -> Getting all users.
+20-12-22 01:34 -> Delete user aa$maiol.com.
+20-12-22 01:34 -> Getting all users.
+20-12-22 01:35 -> connected to mongoDB
+20-12-22 01:35 -> Getting all users.
+20-12-22 01:35 -> Getting all users.
+20-12-22 01:35 -> Delete user aa$maiol.com.
+20-12-22 01:35 -> connected to mongoDB
+20-12-22 01:41 -> connected to mongoDB
+20-12-22 01:53 -> connected to mongoDB
+20-12-22 01:54 -> Getting all users.
+20-12-22 01:54 -> Delete user aa$maiol.com.
+20-12-22 01:54 -> connected to mongoDB
+20-12-22 01:54 -> Getting all users.
+20-12-22 01:54 -> Delete user aa$maiol.com.
+20-12-22 01:55 -> connected to mongoDB
+20-12-22 01:55 -> connected to mongoDB
+20-12-22 01:57 -> connected to mongoDB
+20-12-22 01:57 -> connected to mongoDB
+20-12-22 01:57 -> connected to mongoDB
+20-12-22 01:58 -> Getting all users.
+20-12-22 01:58 -> connected to mongoDB
+20-12-22 01:58 -> Delete user aa$maiol.com.
+20-12-22 01:58 -> Getting all users.
+20-12-22 01:59 -> Getting all users.
+20-12-22 01:59 -> Delete user aa$maiol.com.
+20-12-22 02:00 -> connected to mongoDB
+20-12-22 02:00 -> Getting all users.
+20-12-22 02:00 -> Delete user aa$maiol.com.
+20-12-22 02:03 -> connected to mongoDB
+20-12-22 02:03 -> Delete user aa$maiol.com.
+20-12-22 02:03 -> connected to mongoDB
+20-12-22 02:04 -> connected to mongoDB
+20-12-22 02:04 -> connected to mongoDB
+20-12-22 02:11 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+20-12-22 02:12 -> connected to mongoDB
+20-12-22 02:12 -> Getting all users.
+20-12-22 02:12 -> Creating a new user.
+20-12-22 02:12 -> Getting all users.
+20-12-22 02:12 -> Delete user aa$maiol.com.
+20-12-22 02:13 -> connected to mongoDB
+20-12-22 02:13 -> Getting all users.
+20-12-22 02:13 -> Creating a new user.
+20-12-22 02:13 -> Creating a new user.
+20-12-22 02:14 -> connected to mongoDB
+20-12-22 02:14 -> Getting all users.
+20-12-22 02:14 -> Creating a new user.
+20-12-22 02:18 -> connected to mongoDB
+20-12-22 02:18 -> Getting all users.
+20-12-22 02:18 -> connected to mongoDB
+20-12-22 02:18 -> Getting all users.
+20-12-22 02:19 -> connected to mongoDB
+20-12-22 02:19 -> Delete user aa$maiol.com.
+20-12-22 02:19 -> Creating a new user.
+20-12-22 02:19 -> Getting all users.
+20-12-22 02:21 -> connected to mongoDB
+20-12-22 02:21 -> Getting all users.
+20-12-22 02:21 -> Delete user aa$maiol.com.
+20-12-22 02:21 -> Creating a new user.
+20-12-22 02:21 -> Getting all users.
+20-12-22 02:21 -> connected to mongoDB
+20-12-22 02:23 -> connected to mongoDB
+20-12-22 02:23 -> connected to mongoDB
+20-12-22 02:23 -> connected to mongoDB
+20-12-22 02:24 -> connected to mongoDB
+20-12-22 02:24 -> connected to mongoDB
+20-12-22 02:26 -> connected to mongoDB
+20-12-22 02:26 -> connected to mongoDB
+20-12-22 02:26 -> connected to mongoDB
+20-12-22 02:26 -> Getting all users.
+20-12-22 02:26 -> Delete user aa$maiol.com.
+20-12-22 02:27 -> Getting all users.
+20-12-22 02:27 -> connected to mongoDB
+20-12-22 02:27 -> connected to mongoDB
+20-12-22 02:28 -> connected to mongoDB
+20-12-22 02:30 -> connected to mongoDB
+20-12-22 02:30 -> connected to mongoDB
+20-12-22 02:32 -> connected to mongoDB
+20-12-22 02:33 -> connected to mongoDB
+20-12-22 02:33 -> connected to mongoDB
+20-12-22 02:33 -> Getting all users.
+20-12-22 02:34 -> connected to mongoDB
+20-12-22 02:34 -> connected to mongoDB
+12-20-22 02:45 -> connected to mongoDB
+12-20-22 02:45 -> connected to mongoDB
+12-20-22 02:49 -> connected to mongoDB
+12-20-22 02:49 -> Creating a new user.
+12-20-22 02:49 -> Getting all users.
+12-20-22 02:49 -> connected to mongoDB
+12-20-22 02:50 -> Getting all users.
+12-20-22 02:50 -> Getting all users.
+12-20-22 02:50 -> connected to mongoDB
+12-20-22 02:50 -> Delete user koren@accessibility.com.
+12-20-22 02:50 -> Getting all users.
+12-20-22 02:51 -> connected to mongoDB
+12-20-22 02:55 -> connected to mongoDB
+12-20-22 02:55 -> connected to mongoDB
+12-20-22 02:55 -> Creating a new user.
+12-20-22 02:55 -> Getting all users.
+12-20-22 02:56 -> connected to mongoDB
+12-20-22 02:56 -> Delete user koren@accessibility.com.
+12-20-22 02:56 -> Getting all users.
+12-20-22 02:56 -> Creating a new user.
+12-20-22 02:56 -> Getting all users.
+12-20-22 02:56 -> Delete user koren@accessibility.com.
+12-20-22 02:57 -> connected to mongoDB
+12-20-22 03:01 -> connected to mongoDB
+12-20-22 03:01 -> Creating a new user.
+12-20-22 03:01 -> Getting all users.
+12-20-22 03:01 -> Delete user koren@accessibility.com.
+12-20-22 03:01 -> connected to mongoDB
+12-20-22 03:01 -> connected to mongoDB
+12-20-22 03:02 -> Creating a new user.
+12-20-22 03:02 -> Getting all users.
+12-20-22 03:02 -> connected to mongoDB
+12-20-22 03:03 -> Edit user koren@accessibility.com.
+12-20-22 03:03 -> Getting all users.
+12-20-22 03:03 -> Getting all users.
+12-20-22 03:03 -> Edit user koren@accessibility.com.
+12-20-22 03:03 -> Getting all users.
+12-20-22 03:04 -> connected to mongoDB
+12-20-22 03:04 -> Edit user koren@accessibility.com.
+12-20-22 03:04 -> connected to mongoDB
+12-20-22 03:04 -> connected to mongoDB
+12-20-22 03:04 -> Edit user koren@accessibility.com.
+12-20-22 03:05 -> Getting all users.
+12-20-22 03:05 -> Getting all users.
+12-20-22 03:05 -> connected to mongoDB
+12-20-22 03:05 -> connected to mongoDB
+12-20-22 03:05 -> Getting all users.
+12-20-22 03:06 -> Edit user koren@accessibility.com.
+12-20-22 03:06 -> connected to mongoDB
+12-20-22 03:06 -> connected to mongoDB
+12-20-22 03:06 -> Edit user koren@accessibility.com.
+12-20-22 03:06 -> Getting all users.
+12-20-22 03:06 -> Getting all users.
+12-20-22 03:06 -> Edit user koren@accessibility.com.
+12-20-22 03:07 -> Getting all users.
+12-20-22 03:07 -> connected to mongoDB
+12-20-22 03:07 -> connected to mongoDB
+12-20-22 03:08 -> connected to mongoDB
+12-20-22 03:12 -> connected to mongoDB
+12-20-22 03:12 -> Getting all users.
+12-20-22 03:12 -> Edit user koren@accessibility.com.
+12-20-22 03:12 -> connected to mongoDB
+12-20-22 03:13 -> connected to mongoDB
+12-20-22 03:13 -> connected to mongoDB
+12-20-22 03:13 -> Edit user koren@accessibility.com.
+12-20-22 03:13 -> Getting all users.
+12-20-22 03:13 -> connected to mongoDB
+12-20-22 10:54 -> Getting all users.
+12-20-22 10:54 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-20-22 10:54 -> connection error: Error: querySrv EREFUSED _mongodb._tcp.cluster0.claapsg.mongodb.net
+12-20-22 10:55 -> connection error: Error: querySrv EREFUSED _mongodb._tcp.cluster0.claapsg.mongodb.net
+12-20-22 11:04 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-26-22 12:50 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-26-22 12:55 -> connected to mongoDB
+12-26-22 12:55 -> Getting all users.
+12-26-22 12:58 -> Getting all users.
+12-26-22 12:58 -> Getting user koren@accessibility.com.
+12-26-22 01:07 -> connected to mongoDB
+12-26-22 01:07 -> connected to mongoDB
+12-26-22 01:13 -> connected to mongoDB
+12-26-22 01:14 -> Getting all users.
+12-26-22 01:18 -> connected to mongoDB
+12-26-22 01:19 -> connected to mongoDB
+12-26-22 01:22 -> connected to mongoDB
+12-26-22 01:22 -> connected to mongoDB
+12-26-22 01:51 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-26-22 01:51 -> connected to mongoDB
+12-26-22 01:52 -> Getting user koren@accessibility.com.
+12-26-22 01:52 -> Getting user koren@accessibility.com.
+12-26-22 01:52 -> Getting user koren@accessibility.com.
+12-26-22 01:54 -> connected to mongoDB
+12-26-22 01:54 -> connected to mongoDB
+12-26-22 01:55 -> connected to mongoDB
+12-26-22 01:55 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:04 -> connected to mongoDB
+12-26-22 02:07 -> connected to mongoDB
+12-26-22 02:07 -> connected to mongoDB
+12-26-22 02:08 -> connected to mongoDB
+12-26-22 02:08 -> connected to mongoDB
+12-26-22 02:08 -> connected to mongoDB
+12-26-22 02:08 -> connected to mongoDB
+12-26-22 02:09 -> connected to mongoDB
+12-26-22 02:09 -> connected to mongoDB
+12-26-22 02:09 -> connected to mongoDB
+12-26-22 02:09 -> connected to mongoDB
+12-26-22 02:09 -> Getting user koren@accessibility.com.
+12-26-22 02:09 -> connected to mongoDB
+12-26-22 02:09 -> connected to mongoDB
+12-26-22 02:10 -> connected to mongoDB
+12-26-22 02:10 -> connected to mongoDB
+12-26-22 02:10 -> Getting user koren@accessibility.com.
+12-26-22 02:11 -> connected to mongoDB
+12-26-22 02:11 -> connected to mongoDB
+12-26-22 02:11 -> Getting user koren@accessibility.com.
+12-26-22 02:11 -> connected to mongoDB
+12-26-22 02:11 -> connected to mongoDB
+12-26-22 02:11 -> Getting user koren@accessibility.com.
+12-26-22 02:12 -> connected to mongoDB
+12-26-22 02:12 -> connected to mongoDB
+12-26-22 02:12 -> Getting user koren@accessibility.com.
+12-26-22 02:15 -> connected to mongoDB
+12-26-22 02:15 -> connected to mongoDB
+12-26-22 02:15 -> Getting user koren@accessibility.com.
+12-26-22 02:15 -> connected to mongoDB
+12-26-22 02:15 -> connected to mongoDB
+12-26-22 02:15 -> connected to mongoDB
+12-26-22 02:15 -> connected to mongoDB
+12-26-22 02:15 -> Getting user koren@accessibility.com.
+12-26-22 02:16 -> connected to mongoDB
+12-26-22 02:16 -> connected to mongoDB
+12-26-22 02:16 -> connected to mongoDB
+12-26-22 02:16 -> connected to mongoDB
+12-26-22 02:16 -> Getting user koren@accessibility.com.
+12-26-22 02:16 -> connected to mongoDB
+12-26-22 02:16 -> connected to mongoDB
+12-26-22 02:16 -> Getting user koren@accessibility.com.
+12-26-22 02:17 -> connected to mongoDB
+12-26-22 02:17 -> connected to mongoDB
+12-26-22 02:18 -> connected to mongoDB
+12-26-22 02:18 -> connected to mongoDB
+12-26-22 02:19 -> Getting user koren@accessibility.com.
+12-26-22 02:19 -> connected to mongoDB
+12-26-22 02:19 -> connected to mongoDB
+12-26-22 02:19 -> connected to mongoDB
+12-26-22 02:19 -> connected to mongoDB
+12-26-22 02:19 -> Getting user koren@accessibility.com.
+12-26-22 02:20 -> connected to mongoDB
+12-26-22 02:20 -> connected to mongoDB
+12-26-22 02:20 -> connected to mongoDB
+12-26-22 02:20 -> connected to mongoDB
+12-26-22 02:21 -> connected to mongoDB
+12-26-22 02:21 -> connected to mongoDB
+12-26-22 02:21 -> connected to mongoDB
+12-26-22 02:21 -> connected to mongoDB
+12-26-22 02:21 -> connected to mongoDB
+12-26-22 02:21 -> connected to mongoDB
+12-26-22 02:22 -> connected to mongoDB
+12-26-22 02:22 -> connected to mongoDB
+12-26-22 02:22 -> connected to mongoDB
+12-26-22 02:22 -> connected to mongoDB
+12-26-22 02:22 -> Getting user koren@accessibility.com.
+12-26-22 02:22 -> Getting user koren@accessibility.com.
+12-26-22 02:23 -> connected to mongoDB
+12-26-22 02:23 -> connected to mongoDB
+12-26-22 02:23 -> Getting user koren@accessibility.com.
+12-26-22 02:24 -> connected to mongoDB
+12-26-22 02:24 -> connected to mongoDB
+12-26-22 02:24 -> connected to mongoDB
+12-26-22 02:24 -> connected to mongoDB
+12-26-22 02:24 -> Getting user koren@accessibility.com.
+12-26-22 02:24 -> connected to mongoDB
+12-26-22 02:24 -> connected to mongoDB
+12-26-22 02:26 -> connected to mongoDB
+12-26-22 02:26 -> connected to mongoDB
+12-26-22 02:26 -> Getting user koren@accessibility.com.
+12-26-22 02:27 -> connected to mongoDB
+12-26-22 02:27 -> connected to mongoDB
+12-26-22 02:28 -> connected to mongoDB
+12-26-22 02:28 -> connected to mongoDB
+12-26-22 02:28 -> connected to mongoDB
+12-26-22 02:28 -> connected to mongoDB
+12-26-22 02:28 -> Getting user koren@accessibility.com.
+12-26-22 02:28 -> connected to mongoDB
+12-26-22 02:28 -> connected to mongoDB
+12-26-22 02:30 -> connected to mongoDB
+12-26-22 02:30 -> connected to mongoDB
+12-26-22 02:30 -> Getting user koren@accessibility.com.
+12-26-22 02:32 -> connected to mongoDB
+12-26-22 02:32 -> connected to mongoDB
+12-26-22 02:32 -> connected to mongoDB
+12-26-22 02:32 -> connected to mongoDB
+12-26-22 02:32 -> Getting user koren@accessibility.com.
+12-26-22 02:33 -> connected to mongoDB
+12-26-22 02:33 -> connected to mongoDB
+12-26-22 02:33 -> connected to mongoDB
+12-26-22 02:33 -> connected to mongoDB
+12-26-22 02:34 -> connected to mongoDB
+12-26-22 02:34 -> connected to mongoDB
+12-26-22 02:38 -> connected to mongoDB
+12-26-22 02:38 -> connected to mongoDB
+12-26-22 02:38 -> connected to mongoDB
+12-26-22 02:38 -> connected to mongoDB
+12-26-22 02:38 -> Getting user koren@accessibility.com.
+12-26-22 02:38 -> connected to mongoDB
+12-26-22 02:38 -> connected to mongoDB
+12-26-22 02:40 -> connected to mongoDB
+12-26-22 02:40 -> connected to mongoDB
+12-26-22 02:40 -> connected to mongoDB
+12-26-22 02:40 -> connected to mongoDB
+12-26-22 02:40 -> connected to mongoDB
+12-26-22 02:40 -> connected to mongoDB
+12-26-22 02:43 -> connected to mongoDB
+12-26-22 02:43 -> connected to mongoDB
+12-26-22 02:43 -> connected to mongoDB
+12-26-22 02:43 -> connected to mongoDB
+12-26-22 03:30 -> connected to mongoDB
+12-26-22 03:30 -> connected to mongoDB
+12-26-22 03:34 -> undefined failed to login
+12-26-22 03:35 -> connected to mongoDB
+12-26-22 03:35 -> connected to mongoDB
+12-26-22 03:35 -> undefined failed to login
+12-26-22 03:35 -> connected to mongoDB
+12-26-22 03:35 -> connected to mongoDB
+12-26-22 03:36 -> connected to mongoDB
+12-26-22 03:36 -> connected to mongoDB
+12-26-22 03:36 -> connected to mongoDB
+12-26-22 03:36 -> connected to mongoDB
+12-26-22 03:37 -> connected to mongoDB
+12-26-22 03:37 -> connected to mongoDB
+12-26-22 03:37 -> undefined failed to login
+12-26-22 03:38 -> connected to mongoDB
+12-26-22 03:38 -> connected to mongoDB
+12-26-22 03:38 -> connected to mongoDB
+12-26-22 03:38 -> connected to mongoDB
+12-26-22 03:39 -> connected to mongoDB
+12-26-22 03:39 -> connected to mongoDB
+12-26-22 04:07 -> connected to mongoDB
+12-26-22 04:07 -> connected to mongoDB
+12-26-22 04:09 -> connected to mongoDB
+12-26-22 04:09 -> connected to mongoDB
+12-26-22 04:10 -> connected to mongoDB
+12-26-22 04:10 -> connected to mongoDB
+12-26-22 04:10 -> connected to mongoDB
+12-26-22 04:10 -> connected to mongoDB
+12-26-22 04:14 -> connected to mongoDB
+12-26-22 04:14 -> connected to mongoDB
+12-26-22 04:14 -> koren@accessibility.com logged in successfully
+12-26-22 04:36 -> koren@accessibility.com logged in successfully
+12-26-22 04:37 -> Getting all users.
+12-26-22 04:37 -> Edit user koren@accessibility.com.
+12-26-22 04:43 -> connected to mongoDB
+12-26-22 04:43 -> connected to mongoDB
+12-26-22 04:44 -> connected to mongoDB
+12-26-22 04:44 -> connected to mongoDB
+12-26-22 05:01 -> connected to mongoDB
+12-26-22 05:01 -> connected to mongoDB
+12-26-22 05:02 -> Creating a new user.
+12-26-22 05:02 -> Getting all users.
+12-26-22 05:04 -> connected to mongoDB
+12-26-22 05:04 -> connected to mongoDB
+12-26-22 05:04 -> Getting all users.
+12-26-22 05:04 -> connected to mongoDB
+12-26-22 05:04 -> connected to mongoDB
+12-26-22 05:08 -> connected to mongoDB
+12-26-22 05:08 -> connected to mongoDB
+12-26-22 05:08 -> Getting all users.
+12-26-22 05:09 -> connected to mongoDB
+12-26-22 05:09 -> connected to mongoDB
+12-26-22 05:45 -> Getting all users.
+12-26-22 05:46 -> koren@accessibility.com logged in successfully
+12-26-22 05:46 -> Getting user koren@accessibility.cim.
+12-26-22 05:46 -> Getting user koren@accessibility.com.
+12-26-22 05:46 -> Getting user koren@accessibility.com.
+12-26-22 05:47 -> Getting user koren@accessibility.cim.
+12-26-22 05:47 -> Getting user koren@accessibility.cim.
+12-26-22 05:47 -> Getting user koren@accessibility.com.
+12-26-22 05:49 -> connected to mongoDB
+12-26-22 05:49 -> connected to mongoDB
+12-26-22 05:49 -> koren@accessibility.com logged in successfully
+12-26-22 05:49 -> Getting user koren@accessibility.com.
+12-26-22 05:49 -> connected to mongoDB
+12-26-22 05:49 -> connected to mongoDB
+12-26-22 05:49 -> Getting user koren@accessibility.com.
+12-26-22 05:49 -> Getting user koren@accessibility.cim.
+12-26-22 05:49 -> Getting user koren@accessibility.com.
+12-26-22 05:50 -> Getting user koren@accessibility.com.
+12-26-22 05:50 -> Getting user koren@accessibility.com.
+12-26-22 05:50 -> koren@accessibility.com logged in successfully
+12-26-22 05:50 -> Getting user koren@accessibility.com.
+12-26-22 05:51 -> Getting user koren@accessibility.com.
+12-26-22 05:51 -> connected to mongoDB
+12-26-22 05:51 -> connected to mongoDB
+12-26-22 05:52 -> connected to mongoDB
+12-26-22 05:52 -> connected to mongoDB
+12-26-22 05:52 -> Getting user koren@accessibility.com.
+12-26-22 05:52 -> koren@accessibility.com logged in successfully
+12-26-22 05:52 -> Getting user koren@accessibility.com.
+12-26-22 05:53 -> Getting user koren@accessibility.com.
+12-26-22 05:53 -> Getting user koren@accessibility.cim.
+12-26-22 05:53 -> Getting user koren@accessibility.com.
+12-26-22 05:55 -> connected to mongoDB
+12-26-22 05:55 -> connected to mongoDB
+12-26-22 05:55 -> Getting user koren@accessibility.com.
+12-26-22 05:55 -> koren@accessibility.com logged in successfully
+12-26-22 05:56 -> Getting user koren@accessibility.com.
+12-26-22 05:56 -> connected to mongoDB
+12-26-22 05:56 -> connected to mongoDB
+12-26-22 05:56 -> koren@accessibility.com logged in successfully
+12-26-22 05:57 -> Getting user koren@accessibility.com.
+12-26-22 05:57 -> connected to mongoDB
+12-26-22 05:57 -> connected to mongoDB
+12-26-22 05:57 -> connected to mongoDB
+12-26-22 05:57 -> connected to mongoDB
+12-26-22 05:57 -> koren@accessibility.com logged in successfully
+12-26-22 05:57 -> Getting user koren@accessibility.com.
+12-26-22 05:57 -> Getting user koren@accessibility.cim.
+12-26-22 05:58 -> Getting user koren@accessibility.cim.
+12-26-22 05:58 -> connected to mongoDB
+12-26-22 05:58 -> connected to mongoDB
+12-26-22 05:58 -> Getting user koren@accessibility.com.
+12-26-22 05:59 -> connected to mongoDB
+12-26-22 05:59 -> connected to mongoDB
+12-26-22 05:59 -> koren@accessibility.com logged in successfully
+12-26-22 05:59 -> Getting user koren@accessibility.com.
+12-26-22 05:59 -> connected to mongoDB
+12-26-22 05:59 -> connected to mongoDB
+12-26-22 06:01 -> connected to mongoDB
+12-26-22 06:01 -> connected to mongoDB
+12-26-22 06:01 -> koren@accessibility.com logged in successfully
+12-26-22 06:01 -> Getting user koren@accessibility.com.
+12-26-22 06:02 -> connected to mongoDB
+12-26-22 06:02 -> connected to mongoDB
+12-26-22 06:02 -> Getting user koren@accessibility.com.
+12-26-22 06:02 -> Getting user koren@accessibility.cim.
+12-26-22 06:02 -> Getting user koren@accessibility.com.
+12-26-22 06:02 -> koren@accessibility.com logged in successfully
+12-26-22 06:03 -> Getting user koren@accessibility.com.
+12-26-22 06:03 -> Getting user koren@accessibility.cim.
+12-26-22 06:04 -> Getting user koren@accessibility.com.
+12-26-22 09:43 -> connected to mongoDB
+12-26-22 09:43 -> connected to mongoDB
+12-26-22 09:44 -> koren@accessibility.com failed to login
+12-26-22 09:44 -> koren@accessibility.com failed to login
+12-26-22 09:44 -> connected to mongoDB
+12-26-22 09:44 -> connected to mongoDB
+12-26-22 09:45 -> connected to mongoDB
+12-26-22 09:45 -> connected to mongoDB
+12-26-22 09:45 -> connected to mongoDB
+12-26-22 09:45 -> connected to mongoDB
+12-26-22 09:45 -> connected to mongoDB
+12-26-22 09:45 -> connected to mongoDB
+12-26-22 09:45 -> koren@accessibility.com logged in successfully
+12-26-22 09:46 -> connected to mongoDB
+12-26-22 09:46 -> connected to mongoDB
+12-26-22 09:46 -> Getting user koren@accessibility.com.
+12-26-22 09:46 -> Getting user koren@accessibility.cim.
+12-26-22 09:46 -> Getting user koren@accessibility.com.
+12-26-22 09:47 -> connected to mongoDB
+12-26-22 09:47 -> connected to mongoDB
+12-26-22 09:47 -> koren@accessibility.com logged in successfully
+12-26-22 09:47 -> Getting user koren@accessibility.com.
+12-26-22 09:48 -> connected to mongoDB
+12-26-22 09:48 -> connected to mongoDB
+12-26-22 09:48 -> Getting user koren@accessibility.com.
+12-26-22 09:48 -> Getting user koren@accessibility.com.
+12-26-22 09:48 -> Getting user koren@accessibility.com.
+12-26-22 09:48 -> Getting user koren@accessibility.com.
+12-26-22 09:48 -> koren@accessibility.com logged in successfully
+12-26-22 09:48 -> Getting all users.
+12-26-22 09:48 -> Getting user koren@accessibility.com.
+12-26-22 09:48 -> connected to mongoDB
+12-26-22 09:48 -> connected to mongoDB
+12-26-22 11:14 -> Getting user koren@accessibility.com.
+12-26-22 11:14 -> Getting all users.
+12-27-22 12:27 -> connected to mongoDB
+12-27-22 12:27 -> connected to mongoDB
+12-27-22 12:27 -> connected to mongoDB
+12-27-22 12:27 -> connected to mongoDB
+12-27-22 12:28 -> connected to mongoDB
+12-27-22 12:28 -> connected to mongoDB
+12-27-22 12:31 -> connected to mongoDB
+12-27-22 12:31 -> connected to mongoDB
+12-27-22 12:32 -> connected to mongoDB
+12-27-22 12:32 -> connected to mongoDB
+12-27-22 12:32 -> connected to mongoDB
+12-27-22 12:32 -> connected to mongoDB
+12-27-22 12:33 -> connected to mongoDB
+12-27-22 12:33 -> connected to mongoDB
+12-27-22 12:34 -> connected to mongoDB
+12-27-22 12:34 -> connected to mongoDB
+12-27-22 12:35 -> connected to mongoDB
+12-27-22 12:35 -> connected to mongoDB
+12-27-22 12:36 -> connected to mongoDB
+12-27-22 12:36 -> connected to mongoDB
+12-27-22 12:36 -> connected to mongoDB
+12-27-22 12:36 -> connected to mongoDB
+12-27-22 12:37 -> connected to mongoDB
+12-27-22 12:37 -> connected to mongoDB
+12-27-22 12:37 -> connected to mongoDB
+12-27-22 12:37 -> connected to mongoDB
+12-27-22 12:37 -> connected to mongoDB
+12-27-22 12:37 -> connected to mongoDB
+12-27-22 12:38 -> connected to mongoDB
+12-27-22 12:38 -> connected to mongoDB
+12-27-22 12:38 -> connected to mongoDB
+12-27-22 12:38 -> connected to mongoDB
+12-27-22 12:38 -> connected to mongoDB
+12-27-22 12:38 -> connected to mongoDB
+12-27-22 12:39 -> connected to mongoDB
+12-27-22 12:39 -> connected to mongoDB
+12-27-22 12:39 -> connected to mongoDB
+12-27-22 12:39 -> connected to mongoDB
+12-27-22 12:40 -> connected to mongoDB
+12-27-22 12:40 -> connected to mongoDB
+12-27-22 12:40 -> connected to mongoDB
+12-27-22 12:40 -> connected to mongoDB
+12-27-22 12:42 -> connected to mongoDB
+12-27-22 12:42 -> connected to mongoDB
+12-27-22 12:42 -> connected to mongoDB
+12-27-22 12:42 -> connected to mongoDB
+12-27-22 12:43 -> connected to mongoDB
+12-27-22 12:43 -> connected to mongoDB
+12-27-22 12:43 -> connected to mongoDB
+12-27-22 12:43 -> connected to mongoDB
+12-27-22 12:47 -> connected to mongoDB
+12-27-22 12:47 -> connected to mongoDB
+12-27-22 12:47 -> connected to mongoDB
+12-27-22 12:47 -> connected to mongoDB
+12-27-22 12:50 -> connected to mongoDB
+12-27-22 12:50 -> connected to mongoDB
+12-27-22 12:51 -> connected to mongoDB
+12-27-22 12:51 -> connected to mongoDB
+12-27-22 12:51 -> connected to mongoDB
+12-27-22 12:51 -> connected to mongoDB
+12-27-22 12:52 -> connected to mongoDB
+12-27-22 12:52 -> connected to mongoDB
+12-27-22 12:53 -> connected to mongoDB
+12-27-22 12:53 -> connected to mongoDB
+12-27-22 12:53 -> connected to mongoDB
+12-27-22 12:53 -> connected to mongoDB
+12-27-22 12:54 -> connected to mongoDB
+12-27-22 12:54 -> connected to mongoDB
+12-27-22 12:54 -> connected to mongoDB
+12-27-22 12:54 -> connected to mongoDB
+12-27-22 12:55 -> connected to mongoDB
+12-27-22 12:55 -> connected to mongoDB
+12-27-22 12:56 -> connected to mongoDB
+12-27-22 12:56 -> connected to mongoDB
+12-27-22 12:56 -> connected to mongoDB
+12-27-22 12:56 -> connected to mongoDB
+12-27-22 12:57 -> connected to mongoDB
+12-27-22 12:57 -> connected to mongoDB
+12-27-22 12:58 -> connected to mongoDB
+12-27-22 12:58 -> connected to mongoDB
+12-27-22 01:04 -> connected to mongoDB
+12-27-22 01:04 -> connected to mongoDB
+12-27-22 01:04 -> connected to mongoDB
+12-27-22 01:04 -> connected to mongoDB
+12-27-22 01:06 -> connected to mongoDB
+12-27-22 01:06 -> connected to mongoDB
+12-27-22 01:06 -> connected to mongoDB
+12-27-22 01:06 -> connected to mongoDB
+12-27-22 01:08 -> connected to mongoDB
+12-27-22 01:08 -> connected to mongoDB
+12-27-22 01:08 -> connected to mongoDB
+12-27-22 01:08 -> connected to mongoDB
+12-27-22 01:09 -> connected to mongoDB
+12-27-22 01:09 -> connected to mongoDB
+12-27-22 01:09 -> connected to mongoDB
+12-27-22 01:09 -> connected to mongoDB
+12-27-22 01:12 -> connected to mongoDB
+12-27-22 01:12 -> connected to mongoDB
+12-27-22 01:13 -> connected to mongoDB
+12-27-22 01:13 -> connected to mongoDB
+12-27-22 01:14 -> connected to mongoDB
+12-27-22 01:14 -> connected to mongoDB
+12-27-22 01:18 -> connected to mongoDB
+12-27-22 01:18 -> connected to mongoDB
+12-27-22 01:18 -> connected to mongoDB
+12-27-22 01:18 -> connected to mongoDB
+12-27-22 01:19 -> connected to mongoDB
+12-27-22 01:19 -> connected to mongoDB
+12-27-22 01:20 -> connected to mongoDB
+12-27-22 01:20 -> connected to mongoDB
+12-27-22 01:22 -> connected to mongoDB
+12-27-22 01:22 -> connected to mongoDB
+12-27-22 01:23 -> connected to mongoDB
+12-27-22 01:23 -> connected to mongoDB
+12-27-22 01:23 -> aaa@gmail.compassword=asdf failed to login
+12-27-22 01:23 -> aaa@gmail.compassword=asdf failed to login
+12-27-22 01:24 -> koren@accessibility.compassword=dfvdfv failed to login
+12-27-22 01:25 -> koren@accessibility.compassword=dfvdfv failed to login
+12-27-22 01:25 -> connected to mongoDB
+12-27-22 01:25 -> connected to mongoDB
+12-27-22 01:25 -> koren@accessibility.compassword=dfvdfv failed to login
+12-27-22 01:25 -> koren@accessibility.compassword=dfvdfv failed to login
+12-27-22 01:26 -> connected to mongoDB
+12-27-22 01:26 -> connected to mongoDB
+12-27-22 01:26 -> koren@accessibility.com logged in successfully
+12-27-22 01:26 -> connected to mongoDB
+12-27-22 01:26 -> connected to mongoDB
+12-27-22 01:27 -> koren@accessibility.com failed to login
+12-27-22 01:27 -> koren@accessibility.com failed to login
+12-27-22 01:27 -> koren@accessibility.com failed to login
+12-27-22 01:42 ->  failed to login
+12-27-22 01:42 ->  failed to login
+12-27-22 01:53 -> connected to mongoDB
+12-27-22 01:53 -> connected to mongoDB
+12-27-22 01:54 -> connected to mongoDB
+12-27-22 01:54 -> connected to mongoDB
+12-27-22 01:54 -> connected to mongoDB
+12-27-22 01:54 -> connected to mongoDB
+12-27-22 01:54 -> connected to mongoDB
+12-27-22 01:54 -> connected to mongoDB
+12-27-22 01:55 -> connected to mongoDB
+12-27-22 01:55 -> connected to mongoDB
+12-27-22 01:55 -> connected to mongoDB
+12-27-22 01:55 -> connected to mongoDB
+12-27-22 02:04 -> connected to mongoDB
+12-27-22 02:04 -> connected to mongoDB
+12-27-22 02:04 -> connected to mongoDB
+12-27-22 02:04 -> connected to mongoDB
+12-27-22 02:05 -> connected to mongoDB
+12-27-22 02:05 -> connected to mongoDB
+12-27-22 02:05 -> connected to mongoDB
+12-27-22 02:05 -> connected to mongoDB
+12-27-22 02:05 -> connected to mongoDB
+12-27-22 02:05 -> connected to mongoDB
+12-27-22 02:11 -> connected to mongoDB
+12-27-22 02:11 -> connected to mongoDB
+12-27-22 02:12 -> connected to mongoDB
+12-27-22 02:12 -> connected to mongoDB
+12-27-22 02:12 -> connected to mongoDB
+12-27-22 02:12 -> connected to mongoDB
+12-27-22 02:12 -> connected to mongoDB
+12-27-22 02:12 -> connected to mongoDB
+12-27-22 02:13 -> connected to mongoDB
+12-27-22 02:13 -> connected to mongoDB
+12-27-22 02:13 -> connected to mongoDB
+12-27-22 02:13 -> connected to mongoDB
+12-27-22 02:13 -> connected to mongoDB
+12-27-22 02:13 -> connected to mongoDB
+12-27-22 02:15 -> connected to mongoDB
+12-27-22 02:15 -> connected to mongoDB
+12-27-22 02:20 -> connected to mongoDB
+12-27-22 02:20 -> connected to mongoDB
+12-27-22 02:20 -> connected to mongoDB
+12-27-22 02:20 -> connected to mongoDB
+12-27-22 02:22 -> connected to mongoDB
+12-27-22 02:22 -> connected to mongoDB
+12-27-22 02:22 -> connected to mongoDB
+12-27-22 02:22 -> connected to mongoDB
+12-27-22 02:22 -> connected to mongoDB
+12-27-22 02:22 -> connected to mongoDB
+12-27-22 02:23 -> connected to mongoDB
+12-27-22 02:23 -> connected to mongoDB
+12-27-22 02:25 -> connected to mongoDB
+12-27-22 02:25 -> connected to mongoDB
+12-27-22 02:25 -> connected to mongoDB
+12-27-22 02:25 -> connected to mongoDB
+12-27-22 02:33 -> connected to mongoDB
+12-27-22 02:33 -> connected to mongoDB
+12-27-22 02:34 -> connected to mongoDB
+12-27-22 02:34 -> connected to mongoDB
+12-27-22 02:34 -> connected to mongoDB
+12-27-22 02:34 -> connected to mongoDB
+12-27-22 02:35 -> connected to mongoDB
+12-27-22 02:35 -> connected to mongoDB
+12-27-22 02:35 -> connected to mongoDB
+12-27-22 02:35 -> connected to mongoDB
+12-27-22 02:36 -> connected to mongoDB
+12-27-22 02:36 -> connected to mongoDB
+12-27-22 02:38 -> connected to mongoDB
+12-27-22 02:38 -> connected to mongoDB
+12-27-22 02:39 -> connected to mongoDB
+12-27-22 02:39 -> connected to mongoDB
+12-27-22 02:39 -> connected to mongoDB
+12-27-22 02:39 -> connected to mongoDB
+12-27-22 02:51 -> connected to mongoDB
+12-27-22 02:51 -> connected to mongoDB
+12-27-22 02:52 -> connected to mongoDB
+12-27-22 02:52 -> connected to mongoDB
+12-27-22 02:53 -> connected to mongoDB
+12-27-22 02:53 -> connected to mongoDB
+12-27-22 02:53 -> connected to mongoDB
+12-27-22 02:53 -> connected to mongoDB
+12-27-22 04:42 -> connected to mongoDB
+12-27-22 04:42 -> connected to mongoDB
+12-27-22 05:23 -> connected to mongoDB
+12-27-22 05:23 -> connected to mongoDB
+12-27-22 05:25 -> connection error: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.claapsg.mongodb.net
+12-27-22 05:25 -> connected to mongoDB
+12-27-22 05:50 -> connected to mongoDB
+12-27-22 05:50 -> connected to mongoDB
+12-27-22 05:51 -> connected to mongoDB
+12-27-22 05:51 -> connected to mongoDB
+12-27-22 05:51 -> connected to mongoDB
+12-27-22 05:51 -> connected to mongoDB
+12-27-22 05:52 -> connected to mongoDB
+12-27-22 05:52 -> connected to mongoDB
+12-27-22 05:52 -> connected to mongoDB
+12-27-22 05:52 -> connected to mongoDB
+12-27-22 06:01 -> connected to mongoDB
+12-27-22 06:01 -> connected to mongoDB
+12-27-22 06:03 -> connected to mongoDB
+12-27-22 06:03 -> connected to mongoDB
+12-27-22 06:05 -> connected to mongoDB
+12-27-22 06:05 -> connected to mongoDB
+12-27-22 06:18 -> connected to mongoDB
+12-27-22 06:18 -> connected to mongoDB
+12-27-22 06:29 -> connected to mongoDB
+12-27-22 06:29 -> connected to mongoDB
+12-27-22 06:31 -> koren@accessibility.com logged in successfully
+12-27-22 06:32 -> connected to mongoDB
+12-27-22 06:32 -> connected to mongoDB
+12-27-22 06:33 -> koren@accessibility.com logged in successfully
+12-27-22 06:40 -> connected to mongoDB
+12-27-22 06:40 -> connected to mongoDB
+12-27-22 06:43 -> koren@accessibility.com logged in successfully
+12-27-22 06:44 -> connected to mongoDB
+12-27-22 06:44 -> connected to mongoDB
+12-27-22 08:23 -> connected to mongoDB
+12-27-22 08:23 -> connected to mongoDB
+12-27-22 08:23 -> connected to mongoDB
+12-27-22 08:23 -> connected to mongoDB
+12-27-22 09:48 -> aa@aa.com failed to login
+12-27-22 09:48 -> aa@aa.com failed to login
+12-27-22 09:50 -> connected to mongoDB
+12-27-22 09:50 -> connected to mongoDB
+12-27-22 09:50 -> aa@aa.com failed to login
+12-27-22 09:50 -> connected to mongoDB
+12-27-22 09:50 -> connected to mongoDB
+12-27-22 09:50 -> connected to mongoDB
+12-27-22 09:50 -> connected to mongoDB
+12-27-22 09:50 -> aa@aa.com failed to login
+12-27-22 09:51 -> connected to mongoDB
+12-27-22 09:51 -> connected to mongoDB
+12-27-22 09:51 -> aa@aa.com failed to login
+12-27-22 09:52 -> connected to mongoDB
+12-27-22 09:52 -> connected to mongoDB
+12-27-22 09:52 -> aa@aa.com failed to login
+12-27-22 09:52 -> connected to mongoDB
+12-27-22 09:52 -> connected to mongoDB
+12-27-22 09:53 -> aa@aa.com failed to login
+12-27-22 09:54 -> aa@aa.com failed to login
+12-27-22 09:54 -> aa@aa.com failed to login
+12-27-22 09:54 -> aa@aa.com failed to login
+12-27-22 09:56 -> connected to mongoDB
+12-27-22 09:56 -> connected to mongoDB
+12-27-22 09:56 -> aa@aa.com failed to login
+12-27-22 09:57 -> connected to mongoDB
+12-27-22 09:57 -> connected to mongoDB
+12-27-22 09:58 -> connected to mongoDB
+12-27-22 09:58 -> connected to mongoDB
+12-27-22 09:58 -> connected to mongoDB
+12-27-22 09:58 -> connected to mongoDB
+12-27-22 09:59 -> connected to mongoDB
+12-27-22 09:59 -> connected to mongoDB
+12-27-22 09:59 -> connected to mongoDB
+12-27-22 09:59 -> connected to mongoDB
+12-27-22 10:00 -> connected to mongoDB
+12-27-22 10:00 -> connected to mongoDB
+12-27-22 10:00 -> connected to mongoDB
+12-27-22 10:00 -> connected to mongoDB
+12-27-22 10:00 -> aa@aa.com failed to login
+12-27-22 10:00 -> connected to mongoDB
+12-27-22 10:00 -> connected to mongoDB
+12-27-22 10:00 -> aa@aa.com failed to login
+12-27-22 10:00 -> aa@aa.com failed to login
+12-27-22 10:01 -> aa@aa.coc failed to login
+12-27-22 10:01 -> connected to mongoDB
+12-27-22 10:01 -> connected to mongoDB
+12-27-22 11:59 -> connected to mongoDB
+12-27-22 11:59 -> connected to mongoDB
+12-27-22 11:59 -> connected to mongoDB
+12-27-22 11:59 -> connected to mongoDB
+12-28-22 12:32 -> aa@aa.com failed to login
+12-28-22 12:44 -> connected to mongoDB
+12-28-22 12:44 -> connected to mongoDB
+12-28-22 12:44 -> connected to mongoDB
+12-28-22 12:44 -> connected to mongoDB
+12-28-22 12:46 -> aa@aa.com failed to login
+12-28-22 12:47 -> connected to mongoDB
+12-28-22 12:47 -> connected to mongoDB
+12-28-22 12:47 -> connected to mongoDB
+12-28-22 12:47 -> connected to mongoDB
+12-28-22 12:49 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-28-22 12:49 -> connected to mongoDB
+12-28-22 12:49 -> connected to mongoDB
+12-28-22 12:49 -> connected to mongoDB
+12-28-22 12:49 -> connected to mongoDB
+12-28-22 12:49 -> connected to mongoDB
+12-28-22 12:49 -> connected to mongoDB
+12-28-22 12:49 -> connected to mongoDB
+12-28-22 12:50 -> connected to mongoDB
+12-28-22 12:50 -> connected to mongoDB
+12-28-22 12:53 -> connected to mongoDB
+12-28-22 12:53 -> connected to mongoDB
+12-28-22 12:54 -> connected to mongoDB
+12-28-22 12:54 -> connected to mongoDB
+12-28-22 12:54 -> connected to mongoDB
+12-28-22 12:54 -> connected to mongoDB
+12-28-22 12:55 -> connected to mongoDB
+12-28-22 12:55 -> connected to mongoDB
+12-28-22 12:55 -> connected to mongoDB
+12-28-22 12:55 -> connected to mongoDB
+12-28-22 12:56 -> connected to mongoDB
+12-28-22 12:56 -> connected to mongoDB
+12-28-22 12:56 -> connected to mongoDB
+12-28-22 12:56 -> connected to mongoDB
+12-28-22 12:58 -> connected to mongoDB
+12-28-22 12:58 -> connected to mongoDB
+12-28-22 12:58 -> connected to mongoDB
+12-28-22 12:58 -> connected to mongoDB
+12-28-22 01:00 -> connected to mongoDB
+12-28-22 01:00 -> connected to mongoDB
+12-28-22 01:01 -> connected to mongoDB
+12-28-22 01:01 -> connected to mongoDB
+12-28-22 01:03 -> connected to mongoDB
+12-28-22 01:03 -> connected to mongoDB
+12-28-22 01:04 -> connected to mongoDB
+12-28-22 01:04 -> connected to mongoDB
+12-28-22 01:07 -> connected to mongoDB
+12-28-22 01:07 -> connected to mongoDB
+12-28-22 01:08 -> connected to mongoDB
+12-28-22 01:08 -> connected to mongoDB
+12-28-22 01:09 -> connected to mongoDB
+12-28-22 01:09 -> connected to mongoDB
+12-28-22 01:09 -> connected to mongoDB
+12-28-22 01:09 -> connected to mongoDB
+12-28-22 01:10 -> connected to mongoDB
+12-28-22 01:10 -> connected to mongoDB
+12-28-22 01:10 -> connected to mongoDB
+12-28-22 01:10 -> connected to mongoDB
+12-28-22 01:10 -> connected to mongoDB
+12-28-22 01:10 -> connected to mongoDB
+12-28-22 01:11 -> connected to mongoDB
+12-28-22 01:11 -> connected to mongoDB
+12-28-22 01:11 -> connected to mongoDB
+12-28-22 01:11 -> connected to mongoDB
+12-28-22 01:11 -> connected to mongoDB
+12-28-22 01:11 -> connected to mongoDB
+12-28-22 01:12 -> connected to mongoDB
+12-28-22 01:12 -> connected to mongoDB
+12-28-22 01:13 -> connected to mongoDB
+12-28-22 01:13 -> connected to mongoDB
+12-28-22 01:13 -> connected to mongoDB
+12-28-22 01:13 -> connected to mongoDB
+12-28-22 01:14 -> connected to mongoDB
+12-28-22 01:14 -> connected to mongoDB
+12-28-22 01:15 -> connected to mongoDB
+12-28-22 01:15 -> connected to mongoDB
+12-28-22 01:15 -> connected to mongoDB
+12-28-22 01:15 -> connected to mongoDB
+12-28-22 01:35 -> connected to mongoDB
+12-28-22 01:35 -> connected to mongoDB
+12-28-22 01:37 -> connected to mongoDB
+12-28-22 01:37 -> connected to mongoDB
+12-28-22 01:37 -> connected to mongoDB
+12-28-22 01:37 -> connected to mongoDB
+12-28-22 01:40 -> connected to mongoDB
+12-28-22 01:40 -> connected to mongoDB
+12-28-22 01:41 -> connected to mongoDB
+12-28-22 01:41 -> connected to mongoDB
+12-28-22 01:42 -> connected to mongoDB
+12-28-22 01:42 -> connected to mongoDB
+12-28-22 01:48 -> connected to mongoDB
+12-28-22 01:48 -> connected to mongoDB
+12-28-22 01:48 -> connected to mongoDB
+12-28-22 01:48 -> connected to mongoDB
+12-28-22 01:52 -> connected to mongoDB
+12-28-22 01:52 -> connected to mongoDB
+12-28-22 01:52 -> connected to mongoDB
+12-28-22 01:52 -> connected to mongoDB
+12-28-22 01:53 -> connected to mongoDB
+12-28-22 01:53 -> connected to mongoDB
+12-28-22 01:53 -> connected to mongoDB
+12-28-22 01:53 -> connected to mongoDB
+12-28-22 01:54 -> connected to mongoDB
+12-28-22 01:54 -> connected to mongoDB
+12-28-22 01:55 -> connected to mongoDB
+12-28-22 01:55 -> connected to mongoDB
+12-28-22 01:55 -> connected to mongoDB
+12-28-22 01:55 -> connected to mongoDB
+12-28-22 01:55 -> connected to mongoDB
+12-28-22 01:55 -> connected to mongoDB
+12-28-22 01:56 -> connected to mongoDB
+12-28-22 01:56 -> connected to mongoDB
+12-28-22 01:56 -> connected to mongoDB
+12-28-22 01:56 -> connected to mongoDB
+12-28-22 01:57 -> connected to mongoDB
+12-28-22 01:57 -> connected to mongoDB
+12-28-22 01:57 -> connected to mongoDB
+12-28-22 01:57 -> connected to mongoDB
+12-28-22 01:58 -> connected to mongoDB
+12-28-22 01:58 -> connected to mongoDB
+12-28-22 02:02 -> connected to mongoDB
+12-28-22 02:02 -> connected to mongoDB
+12-28-22 02:02 -> connected to mongoDB
+12-28-22 02:02 -> connected to mongoDB
+12-28-22 02:04 -> connected to mongoDB
+12-28-22 02:04 -> connected to mongoDB
+12-28-22 02:04 -> aa@aa.com failed to login
+12-28-22 02:05 -> connected to mongoDB
+12-28-22 02:05 -> connected to mongoDB
+12-28-22 02:08 -> connected to mongoDB
+12-28-22 02:08 -> connected to mongoDB
+12-28-22 02:08 -> User aa@aa.com is not found!.
+12-28-22 02:08 -> connected to mongoDB
+12-28-22 02:08 -> connected to mongoDB
+12-28-22 02:08 -> koren@accessibility.com failed to login
+12-28-22 02:08 -> koren@accessibility.com failed to login
+12-28-22 02:08 -> koren@accessibility.com failed to login
+12-28-22 02:08 -> koren@accessibility.com failed to login
+12-28-22 02:08 -> User koren@accessibility.co is not found!.
+12-28-22 02:09 -> koren@accessibility.com failed to login
+12-28-22 02:09 -> User koren@accessibility.co is not found!.
+12-28-22 02:09 -> koren@accessibility.com failed to login
+12-28-22 02:09 -> koren@accessibility.com failed to login
+12-28-22 02:11 -> connected to mongoDB
+12-28-22 02:11 -> connected to mongoDB
+12-28-22 02:12 -> connected to mongoDB
+12-28-22 02:12 -> connected to mongoDB
+12-28-22 02:13 -> koren@accessibility.com failed to login
+12-28-22 02:13 -> User koren@accessibility.co is not found!.
+12-28-22 02:14 -> koren@accessibility.com failed to login
+12-28-22 02:14 -> koren@accessibility.com failed to login
+12-28-22 02:15 -> koren@accessibility.com failed to login
+12-28-22 02:15 -> User koren@accessibility.co is not found!.
+12-28-22 02:15 -> User koren@accessibility.co is not found!.
+12-28-22 02:15 -> koren@accessibility.com failed to login
+12-28-22 02:19 -> User koren@accessibility.co is not found!.
+12-28-22 02:19 -> koren@accessibility.com failed to login
+12-28-22 02:28 -> User aa@aa.com is not found!.
+12-28-22 04:33 -> connected to mongoDB
+12-28-22 04:33 -> connected to mongoDB
+12-28-22 04:34 -> connected to mongoDB
+12-28-22 04:34 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 12:19 -> connected to mongoDB
+12-28-22 12:19 -> connected to mongoDB
+12-28-22 12:33 -> connected to mongoDB
+12-28-22 12:33 -> connected to mongoDB
+12-28-22 12:34 -> connected to mongoDB
+12-28-22 12:34 -> connected to mongoDB
+12-28-22 12:36 -> Creating a new user.
+12-28-22 12:45 -> roy@accessibility.com failed to login
+12-28-22 12:45 -> roy@accessibility.com logged in successfully
+12-28-22 12:46 -> connected to mongoDB
+12-28-22 12:46 -> connected to mongoDB
+12-28-22 12:46 -> roy@accessibility.com failed to login
+12-28-22 12:46 -> roy@accessibility.com failed to login
+12-28-22 12:47 -> roy@accessibility.com logged in successfully
+12-28-22 12:54 -> connected to mongoDB
+12-28-22 12:54 -> connected to mongoDB
+12-28-22 01:01 -> connected to mongoDB
+12-28-22 01:01 -> connected to mongoDB
+12-28-22 01:02 -> connected to mongoDB
+12-28-22 01:02 -> connected to mongoDB
+12-28-22 01:03 -> connected to mongoDB
+12-28-22 01:03 -> connected to mongoDB
+12-28-22 04:31 -> connected to mongoDB
+12-28-22 04:31 -> connected to mongoDB
+12-28-22 04:33 -> connected to mongoDB
+12-28-22 04:33 -> connected to mongoDB
+12-28-22 04:34 -> connected to mongoDB
+12-28-22 04:34 -> connected to mongoDB
+12-28-22 04:34 -> connected to mongoDB
+12-28-22 04:34 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 04:35 -> connected to mongoDB
+12-28-22 04:37 -> connected to mongoDB
+12-28-22 04:37 -> connected to mongoDB
+12-28-22 04:44 -> connected to mongoDB
+12-28-22 04:44 -> connected to mongoDB
+12-28-22 04:45 -> connected to mongoDB
+12-28-22 04:45 -> connected to mongoDB
+12-28-22 04:46 -> connected to mongoDB
+12-28-22 04:46 -> connected to mongoDB
+12-28-22 04:47 -> connected to mongoDB
+12-28-22 04:47 -> connected to mongoDB
+12-28-22 04:47 -> connected to mongoDB
+12-28-22 04:47 -> connected to mongoDB
+12-28-22 04:48 -> connected to mongoDB
+12-28-22 04:48 -> connected to mongoDB
+12-28-22 04:48 -> connected to mongoDB
+12-28-22 04:48 -> connected to mongoDB
+12-28-22 04:49 -> connected to mongoDB
+12-28-22 04:49 -> connected to mongoDB
+12-28-22 04:49 -> connected to mongoDB
+12-28-22 04:49 -> connected to mongoDB
+12-28-22 04:49 -> connected to mongoDB
+12-28-22 04:49 -> connected to mongoDB
+12-28-22 04:50 -> connected to mongoDB
+12-28-22 04:50 -> connected to mongoDB
+12-28-22 04:51 -> connected to mongoDB
+12-28-22 04:51 -> connected to mongoDB
+12-28-22 04:51 -> connected to mongoDB
+12-28-22 04:51 -> connected to mongoDB
+12-28-22 04:52 -> connected to mongoDB
+12-28-22 04:52 -> connected to mongoDB
+12-28-22 04:52 -> connected to mongoDB
+12-28-22 04:52 -> connected to mongoDB
+12-28-22 04:53 -> connected to mongoDB
+12-28-22 04:53 -> connected to mongoDB
+12-28-22 04:53 -> connected to mongoDB
+12-28-22 04:53 -> connected to mongoDB
+12-28-22 04:54 -> connected to mongoDB
+12-28-22 04:54 -> connected to mongoDB
+12-28-22 04:54 -> connected to mongoDB
+12-28-22 04:54 -> connected to mongoDB
+12-28-22 04:58 -> connected to mongoDB
+12-28-22 04:58 -> connected to mongoDB
+12-28-22 04:58 -> connected to mongoDB
+12-28-22 04:58 -> connected to mongoDB
+12-28-22 04:59 -> connected to mongoDB
+12-28-22 04:59 -> connected to mongoDB
+12-28-22 04:59 -> connected to mongoDB
+12-28-22 04:59 -> connected to mongoDB
+12-28-22 05:00 -> connected to mongoDB
+12-28-22 05:00 -> connected to mongoDB
+12-28-22 05:01 -> connected to mongoDB
+12-28-22 05:01 -> connected to mongoDB
+12-28-22 05:02 -> connected to mongoDB
+12-28-22 05:02 -> connected to mongoDB
+12-28-22 05:03 -> connected to mongoDB
+12-28-22 05:03 -> connected to mongoDB
+12-28-22 05:05 -> connected to mongoDB
+12-28-22 05:05 -> connected to mongoDB
+12-28-22 05:05 -> connected to mongoDB
+12-28-22 05:05 -> connected to mongoDB
+12-28-22 05:07 -> connected to mongoDB
+12-28-22 05:07 -> connected to mongoDB
+12-28-22 05:07 -> connected to mongoDB
+12-28-22 05:07 -> connected to mongoDB
+12-28-22 05:08 -> connected to mongoDB
+12-28-22 05:08 -> connected to mongoDB
+12-28-22 05:08 -> connected to mongoDB
+12-28-22 05:08 -> connected to mongoDB
+12-28-22 05:09 -> connected to mongoDB
+12-28-22 05:09 -> connected to mongoDB
+12-28-22 05:10 -> connected to mongoDB
+12-28-22 05:10 -> connected to mongoDB
+12-28-22 05:10 -> connected to mongoDB
+12-28-22 05:10 -> connected to mongoDB
+12-28-22 05:12 -> connected to mongoDB
+12-28-22 05:12 -> connected to mongoDB
+12-28-22 05:13 -> connected to mongoDB
+12-28-22 05:13 -> connected to mongoDB
+12-28-22 05:17 -> connected to mongoDB
+12-28-22 05:17 -> connected to mongoDB
+12-28-22 05:17 -> connected to mongoDB
+12-28-22 05:17 -> connected to mongoDB
+12-28-22 05:18 -> connected to mongoDB
+12-28-22 05:18 -> connected to mongoDB
+12-28-22 05:37 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-28-22 05:37 -> connected to mongoDB
+12-28-22 05:38 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-28-22 05:38 -> connected to mongoDB
+12-28-22 05:39 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-28-22 05:39 -> connected to mongoDB
+12-28-22 07:11 -> connected to mongoDB
+12-28-22 07:11 -> connected to mongoDB
+12-28-22 07:16 -> connected to mongoDB
+12-28-22 07:16 -> connected to mongoDB
+12-28-22 07:19 -> connected to mongoDB
+12-28-22 07:19 -> connected to mongoDB
+12-28-22 07:20 -> connected to mongoDB
+12-28-22 07:20 -> connected to mongoDB
+12-28-22 07:21 -> connected to mongoDB
+12-28-22 07:21 -> connected to mongoDB
+12-28-22 07:21 -> connected to mongoDB
+12-28-22 07:21 -> connected to mongoDB
+12-28-22 07:22 -> connected to mongoDB
+12-28-22 07:22 -> connected to mongoDB
+12-28-22 07:24 -> connected to mongoDB
+12-28-22 07:24 -> connected to mongoDB
+12-28-22 07:25 -> connected to mongoDB
+12-28-22 07:25 -> connected to mongoDB
+12-28-22 07:25 -> connected to mongoDB
+12-28-22 07:25 -> connected to mongoDB
+12-28-22 07:27 -> connected to mongoDB
+12-28-22 07:27 -> connected to mongoDB
+12-28-22 07:30 -> connected to mongoDB
+12-28-22 07:30 -> connected to mongoDB
+12-28-22 07:32 -> connected to mongoDB
+12-28-22 07:32 -> connected to mongoDB
+12-28-22 07:32 -> connected to mongoDB
+12-28-22 07:32 -> connected to mongoDB
+12-28-22 07:32 -> roy@accessibility.com failed to login
+12-28-22 07:32 -> roy@accessibility.com logged in successfully
+12-28-22 07:33 -> connected to mongoDB
+12-28-22 07:33 -> connected to mongoDB
+12-28-22 07:33 -> roy@accessibility.com failed to login
+12-28-22 07:33 -> roy@accessibility.com logged in successfully
+12-28-22 07:34 -> connected to mongoDB
+12-28-22 07:34 -> connected to mongoDB
+12-28-22 07:34 -> connected to mongoDB
+12-28-22 07:34 -> connected to mongoDB
+12-28-22 07:34 -> roy@accessibility.com logged in successfully
+12-28-22 07:35 -> connected to mongoDB
+12-28-22 07:35 -> connected to mongoDB
+12-28-22 07:35 -> roy@accessibility.com logged in successfully
+12-28-22 07:35 -> roy@accessibility.com logged in successfully
+12-28-22 07:36 -> connected to mongoDB
+12-28-22 07:36 -> connected to mongoDB
+12-28-22 07:36 -> roy@accessibility.com logged in successfully
+12-28-22 07:37 -> connected to mongoDB
+12-28-22 07:37 -> connected to mongoDB
+12-28-22 07:42 -> connected to mongoDB
+12-28-22 07:42 -> connected to mongoDB
+12-28-22 07:42 -> roy@accessibility.com logged in successfully
+12-29-22 01:06 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-29-22 01:06 -> connected to mongoDB
+12-29-22 01:07 -> connected to mongoDB
+12-29-22 01:07 -> connected to mongoDB
+12-29-22 01:07 -> User koren@accessibility.com is not found!.
+12-29-22 01:07 -> roy@accessibility.com failed to login
+12-29-22 01:07 -> roy@accessibility.com logged in successfully
+12-29-22 01:08 -> connected to mongoDB
+12-29-22 01:08 -> connected to mongoDB
+12-29-22 01:09 -> connected to mongoDB
+12-29-22 01:09 -> connected to mongoDB
+12-29-22 01:12 -> roy@accessibility.com logged in successfully
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:27 -> connected to mongoDB
+12-29-22 01:27 -> connected to mongoDB
+12-29-22 01:27 -> roy@accessibility.com logged in successfully
+12-29-22 01:28 -> connected to mongoDB
+12-29-22 01:28 -> connected to mongoDB
+12-29-22 01:35 -> connected to mongoDB
+12-29-22 01:35 -> connected to mongoDB
+12-29-22 01:35 -> roy@accessibility.com logged in successfully
+12-29-22 01:36 -> connected to mongoDB
+12-29-22 01:36 -> connected to mongoDB
+12-29-22 01:36 -> roy@accessibility.com logged in successfully
+12-29-22 01:37 -> connected to mongoDB
+12-29-22 01:37 -> connected to mongoDB
+12-29-22 01:38 -> connected to mongoDB
+12-29-22 01:38 -> connected to mongoDB
+12-29-22 01:38 -> connected to mongoDB
+12-29-22 01:38 -> connected to mongoDB
+12-29-22 01:47 -> roy@accessibility.com logged in successfully
+12-29-22 01:51 -> connected to mongoDB
+12-29-22 01:51 -> connected to mongoDB
+12-29-22 01:51 -> connected to mongoDB
+12-29-22 01:51 -> connected to mongoDB
+12-29-22 01:51 -> connected to mongoDB
+12-29-22 01:51 -> connected to mongoDB
+12-29-22 01:52 -> roy@accessibility.com logged in successfully
+12-29-22 02:03 -> connected to mongoDB
+12-29-22 02:03 -> connected to mongoDB
+12-29-22 02:03 -> roy@accessibility.com logged in successfully
+12-29-22 02:03 -> connected to mongoDB
+12-29-22 02:03 -> connected to mongoDB
+12-29-22 02:04 -> connected to mongoDB
+12-29-22 02:04 -> connected to mongoDB
+12-29-22 02:04 -> roy@accessibility.com logged in successfully
+12-29-22 02:04 -> connected to mongoDB
+12-29-22 02:04 -> connected to mongoDB
+12-29-22 02:05 -> connected to mongoDB
+12-29-22 02:05 -> connected to mongoDB
+12-29-22 02:05 -> roy@accessibility.com logged in successfully
+12-29-22 02:05 -> connected to mongoDB
+12-29-22 02:05 -> connected to mongoDB
+12-29-22 02:06 -> roy@accessibility.com logged in successfully
+12-29-22 02:08 -> connected to mongoDB
+12-29-22 02:08 -> connected to mongoDB
+12-29-22 02:08 -> connected to mongoDB
+12-29-22 02:08 -> connected to mongoDB
+12-29-22 02:08 -> roy@accessibility.com logged in successfully
+12-29-22 02:10 -> connected to mongoDB
+12-29-22 02:10 -> connected to mongoDB
+12-29-22 02:10 -> roy@accessibility.com logged in successfully
+12-29-22 02:11 -> connected to mongoDB
+12-29-22 02:11 -> connected to mongoDB
+12-29-22 02:11 -> roy@accessibility.com logged in successfully
+12-29-22 02:11 -> connected to mongoDB
+12-29-22 02:11 -> connected to mongoDB
+12-29-22 02:12 -> connected to mongoDB
+12-29-22 02:12 -> connected to mongoDB
+12-29-22 02:12 -> roy@accessibility.com logged in successfully
+12-29-22 02:16 -> roy@accessibility.com logged in successfully
+12-29-22 02:18 -> roy@accessibility.com logged in successfully
+12-29-22 02:22 -> connected to mongoDB
+12-29-22 02:22 -> connected to mongoDB
+12-29-22 02:22 -> connected to mongoDB
+12-29-22 02:22 -> connected to mongoDB
+12-29-22 02:23 -> roy@accessibility.com logged in successfully
+12-29-22 02:24 -> connected to mongoDB
+12-29-22 02:24 -> connected to mongoDB
+12-29-22 02:24 -> roy@accessibility.com logged in successfully
+12-29-22 02:25 -> connected to mongoDB
+12-29-22 02:25 -> connected to mongoDB
+12-29-22 02:26 -> connected to mongoDB
+12-29-22 02:26 -> connected to mongoDB
+12-29-22 02:26 -> connected to mongoDB
+12-29-22 02:26 -> connected to mongoDB
+12-29-22 02:27 -> roy@accessibility.com logged in successfully
+12-29-22 02:27 -> connected to mongoDB
+12-29-22 02:27 -> connected to mongoDB
+12-29-22 02:29 -> roy@accessibility.com logged in successfully
+12-29-22 02:40 -> roy@accessibility.com logged in successfully
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:43 -> User koren@accessibility.com is not found!.
+12-29-22 02:43 -> roy@accessibility.com logged in successfully
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:44 -> roy@accessibility.com logged in successfully
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:45 -> roy@accessibility.com logged in successfully
+12-29-22 02:51 -> roy@accessibility.com logged in successfully
+12-29-22 02:55 -> connected to mongoDB
+12-29-22 02:55 -> connected to mongoDB
+12-29-22 02:56 -> roy@accessibility.com logged in successfully
+12-29-22 02:56 -> connected to mongoDB
+12-29-22 02:56 -> connected to mongoDB
+12-29-22 02:58 -> connected to mongoDB
+12-29-22 02:58 -> connected to mongoDB
+12-29-22 02:58 -> roy@accessibility.com logged in successfully
+12-29-22 02:58 -> connected to mongoDB
+12-29-22 02:58 -> connected to mongoDB
+12-29-22 02:58 -> roy@accessibility.com logged in successfully
