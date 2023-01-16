@@ -1,7 +1,19 @@
 const { model, Schema } = require("mongoose");
+const { imageSchema, Image } = require("./includesModels");
+const {cloudinary} = require("../data/cloudinary");
+
+const minAge = 13;
 
 const emailRegex = new RegExp(/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/);
 const dateRegex  = new RegExp(/^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$/);
+
+const calculateAge = (DOB) => {
+    const dob = new Date(DOB);
+    const diff_ms = Date.now() - dob.getTime();
+    const age_dt = new Date(diff_ms);
+    return age_dt.getUTCFullYear() - 1970;
+}
+
 
 const userSchema = new Schema({
     firstName: {
@@ -30,12 +42,19 @@ const userSchema = new Schema({
         type: String,
         enum: ["male","female"]
     },
-    imgUrl: {
+    role: {
         type: String,
-        default: process.env.PROFILEURL
+        enum: ["user","admin"],
+        default: "user"
     },
-    updatedAt: String,
-    createdAt: String
+    image: {
+        type: imageSchema
+    },
+    updatedAt: Date,
+    createdAt: {
+        type: Date,
+        default: new Date()
+    }
 }, { collection: 'Users', versionKey: false });
 
 userSchema.
@@ -46,5 +65,10 @@ userSchema.
     path("birthDate")
     .validate(birthDate => dateRegex.test(birthDate), "The date of birth is format is incorrect");
 
+userSchema.
+path("birthDate")
+    .validate(birthDate => calculateAge(birthDate) >= minAge, "You must be at least 13 years old to register");
 
-module.exports  = model("User", userSchema);
+const User =  model("User", userSchema);
+
+module.exports  = User;
