@@ -3,7 +3,7 @@ const { usersController } = require('../controllers/usersController');
 
 const userRouter = new Router();
 
-userRouter.get("/:id", usersController.getUserByEmail);
+userRouter.get("/:id", usersController.getUserByID);
 userRouter.get('/', usersController.getAllUsers);
 
 userRouter.put("/:id", usersController.editUser);
