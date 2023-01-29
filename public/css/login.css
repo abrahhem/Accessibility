@@ -85,6 +85,9 @@ body {
 }
 
 
+label {
+    margin-left: 8px;
+}
 
 .form-control:focus, .form-select:focus {
     border: 2px solid var(--primary-color);
@@ -233,9 +236,10 @@ body {
     right: 50%;
 }
 
+
 /* RESPONSIVE */
 
-@media all and (max-width: 425px) {
+@media all and (max-width: 470px) {
 
     .cont::before,
     .cont.sign-in::before,
@@ -275,6 +279,11 @@ body {
         border-top-right-radius: 2rem;
         transform: translateY(100%);
         transition: 1s ease-in-out;
+    }
+
+    .error-alert {
+        height: 76px;
+        overflow: scroll;
     }
 
     .row-s {
