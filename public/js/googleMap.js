@@ -1,11 +1,12 @@
 window.onload = () => {
 
-    fetch( "http://localhost:8080/reports/locations")
+    fetch( origin + "/reports/locations")
         .then(async response => {
             const res = await response.json();
             initMap(res);
         });
 }
+
 
 function initMap(marks) {
     const map = new google.maps.Map(document.getElementById("map"), {
@@ -24,3 +25,4 @@ function initMap(marks) {
     });
 }
 
+const origin = window.origin;
