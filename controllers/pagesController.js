@@ -45,7 +45,7 @@ async function userReports(userID) {
 
 async function all(role) {
     const users = await usersRepository.find();
-    const arg =  role === "admin" ? {severityScale: -1} : {createdAt: -1};
+    const arg =  role === "admin" ? {severityScale: -1, createdAt: -1} : {createdAt: -1};
     const reports = await reportsRepository.findAndSort(arg);
     const data = [];
     reports.forEach(report => {
