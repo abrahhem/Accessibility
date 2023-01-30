@@ -43,14 +43,13 @@ async function userReports(userID) {
 
 }
 
-async function all() {
+async function all(role) {
     const users = await usersRepository.find();
-    const reports = await reportsRepository.find();
+    const arg =  role === "admin" ? {severityScale: -1} : {createdAt: -1};
+    const reports = await reportsRepository.findAndSort(arg);
     const data = [];
     reports.forEach(report => {
-
         const user = users.filter(user => user._id.equals(report.postedBy));
-
         data.push( {
             user: user[0],
             report: report
@@ -75,7 +74,7 @@ exports.pagesController = {
         if (!req.session.hasOwnProperty("userInfo"))
             res.redirect("/");
         else {
-            const data = await all();
+            const data = await all(req.session.userInfo.role);
             res.render("home", {user: req.session.userInfo, data: data});
         }
     },

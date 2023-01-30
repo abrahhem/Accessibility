@@ -107,9 +107,23 @@
                     <div class="card posted-by f-row">
                        <img src="<%= data.user.image.secureUrl %>" alt="">
                         <div class="w-100">
+                            <%
+                                const scale =  data.report.severityScale;
+                                let scaleColor;
+                                if( scale <= 2)
+                                    scaleColor = "green";
+                                else if (scale > 2 && scale <= 4)
+                                    scaleColor = "green-orange";
+                                else if (scale > 4 && scale <= 6)
+                                    scaleColor = "light-orange";
+                                else if (scale > 6 && scale <= 8)
+                                    scaleColor = "orange";
+                                else
+                                    scaleColor = "red";
+                            %>
                             <a href="/profile/<%= data.user._id %>"><p>Posted by <%= data.user.firstName + " " + data.user.lastName %></p></a>
-                            <p>Severe level <b><%= data.report.severityScale  %></b></p>
-                            <p>At <%= new Date(data.report.createdAt).toLocaleDateString() %></p>
+                            <p>Severe level <b class="<%= scaleColor %>"><%= scale %></b></p>
+                            <p>At <%= new Date(data.report.createdAt).toLocaleDateString('en-US', {hour: '2-digit', minute: '2-digit'}) %></p>
                         </div>
                     </div>
                 </div>
@@ -125,29 +139,40 @@
             </div>
             <div class="row">
                 <div class="gallery">
-                    <% for (let i = 0; i < data.report.images.length; i++) {
+                    <%
+                        if (data.report.images.length === 1) { %>
+                            <div class="gallery__item">
+                                <input type="radio" id="img-0" checked name="gallery" class="gallery__selector"/>
+                                <img class="gallery__img" src="<%= data.report.images[0].secureUrl %>" alt=""/>
+<!--                                <label for="img-0" class="gallery__thumb"><img src="<%= data.report.images[0].secureUrl %>" alt=""/></label>-->
+                            </div>
+                        <% }
+                        else {
+                            for (let i = 0; i < data.report.images.length; i++) {
 
-                        if (i === 0 ) { %>
-                            <div class="gallery__item">
-                                <input type="radio" id="img-<%= i %>" checked name="gallery" class="gallery__selector"/>
-                                <img class="gallery__img" src="<%= data.report.images[i].secureUrl %>" alt=""/>
-                                <label for="img-<%= i %>" class="gallery__thumb"><img src="<%= data.report.images[i].secureUrl %>" alt=""/></label>
-                            </div>
-                        <% } else  { %>
-                            <div class="gallery__item">
-                                <input type="radio" id="img-<%= i %>" name="gallery" class="gallery__selector"/>
-                                <img class="gallery__img" src="<%= data.report.images[i].secureUrl %>" alt=""/>
-                                <label for="img-<%= i %>" class="gallery__thumb"><img src="<%= data.report.images[i].secureUrl %>" alt=""/></label>
-                            </div>
-                    <% }
-                    } %>
+                                if (i === 0 ) { %>
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-<%= i %>" checked name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="<%= data.report.images[i].secureUrl %>" alt=""/>
+                                        <label for="img-<%= i %>" class="gallery__thumb"><img src="<%= data.report.images[i].secureUrl %>" alt=""/></label>
+                                    </div>
+                                <% }
+                                else  { %>
+                                    <div class="gallery__item">
+                                        <input type="radio" id="img-<%= i %>" name="gallery" class="gallery__selector"/>
+                                        <img class="gallery__img" src="<%= data.report.images[i].secureUrl %>" alt=""/>
+                                        <label for="img-<%= i %>" class="gallery__thumb"><img src="<%= data.report.images[i].secureUrl %>" alt=""/></label>
+                                    </div>
+                                <% }
+                            }
+                        }%>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <div class="card l-row d-flex justify-content-center">
                         <form id="rate">
-                            <h6>In your opinion, how serious is the report?</h6>
+                            <h6>In your view, how significant is the report?</h6>
                             <div class="rating">
                                 <input type="radio" name="rating" id="rate-10" value="10" required>
                                 <label for="rate-10">10</label>

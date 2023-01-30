@@ -65,6 +65,6 @@ function initMap(Lat, Lng) {
     new google.maps.Marker({
         position: { lat: Number(Lat), lng: Number(Lng) },
         map,
-        title: "Hello World!",
+        title: "Report's location.",
     });
 }

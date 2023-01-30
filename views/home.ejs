@@ -24,7 +24,7 @@
                     <i class="fa-regular fa-house"></i>
                     <span>Home</span>
                 </a>
-                <a href="/reports" class="list-group-item list-group-item-action py-2 ripple">
+                <a href="/reportsList/<%= user._id %>" class="list-group-item list-group-item-action py-2 ripple">
                     <i class="fa-regular fa-message-exclamation"></i>
                     <span>My reports</span>
                 </a>
@@ -50,7 +50,7 @@
     <div class="shift">
         <div class="row wrapper">
             <div class="col d-flex align-items-center">
-                <a class="navbar-brand logo" href="home"></a>
+                <a class="navbar-brand logo" href="/home"></a>
             </div>
             <div class="col d-flex justify-content-end">
                 <div class="dropdown notification-list">
@@ -104,30 +104,22 @@
             <div id="reports">
                 <% for(let i=0; i < data.length; i++) { %>
                     <div class="card home-cont board">
-                        <div class="row mb-3 board">
-                            <img src="<%= data[i].user.image.secureUrl %>" class="rounded-circle">
-                            <div class="post-head">
-                                <a href="/profile/<%= data[i].user._id %>"><%= data[i].user.firstName + " " + data[i].user.lastName %></a>
-                                <p><%= new Date(data[i].report.createdAt).toLocaleDateString() %></p>
+                        <div class="row mb-5 board">
+                            <div class="col d-flex flex-row">
+                                <img src="<%= data[i].user.image.secureUrl %>" class="rounded-circle">
+                                <div class="post-head">
+                                    <a href="/profile/<%= data[i].user._id %>"><%= data[i].user.firstName + " " + data[i].user.lastName %></a>
+                                    <p><%= new Date(data[i].report.createdAt).toLocaleDateString('en-US', {hour: '2-digit', minute: '2-digit'}) %></p>
+                                </div>
+                            </div>
+                            <div class="col d-flex justify-content-end">
+                                <a href="/report/<%= data[i].report._id %>">
+                                    <i class="fa-sharp fa-solid fa-circle-info"></i>
+                                </a>
                             </div>
                         </div>
                         <div class="row board">
-                            <%
-                                const scale =  data[i].report.severityScale;
-                                let scaleColor;
-                                if( scale <= 2)
-                                    scaleColor = "green";
-                                else if (scale > 2 && scale <= 4)
-                                    scaleColor = "green-orange";
-                                else if (scale > 4 && scale <= 6)
-                                    scaleColor = "light-orange";
-                                else if (scale > 6 && scale <= 8)
-                                    scaleColor = "orange";
-                                else
-                                    scaleColor = "red";
-                            %>
-                            <a href="/report/<%= data[i].report._id %>" class="p-0"><%= data[i].report.description %></a>
-                            <p class="m-0 <%= scaleColor %>"><b><%= scale %></b></p>
+                            <p class="mb-1"><%= data[i].report.description %></p>
                         </div>
                         <% const imageSz = data[i].report.images.length %>
                         <div id="car-<%= i %>" class="carousel slide" data-mdb-ride="carousel">

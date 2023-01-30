@@ -11,6 +11,10 @@ module.exports = class Storage {
         return this.Model.find({});
     }
 
+    findAndSort(arg) {
+        return this.Model.find({}).sort(arg);
+    }
+
     findItem(id) {
         return this.Model.find(id);
     }

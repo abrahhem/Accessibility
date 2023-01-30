@@ -1,6 +1,5 @@
 window.onload = () => {
 
-
     addImage.addEventListener("click", (event) => {
         addIamgeInput();
     });
@@ -47,10 +46,9 @@ window.onload = () => {
             .then(async response => {
                 const res = await response.text();
                 if (response.status === 200)
-                    console.log("added");
+                    openSuccess();
                 else
-                    console.log("AHHHH");
-                alert(res);
+                    openError(res);
             });
     });
 
@@ -70,8 +68,11 @@ const photos   = document.getElementById("photos");
 
 const coords = [];
 
+const htmlMain = document.getElementById("main");
 
-
+const success = document.getElementById("success-popup");
+const error = document.getElementById("error-popup");
+const errorMsg = document.getElementById("error-msg");
 
 
 function FileInput(index) {
@@ -137,7 +138,26 @@ function initMap(Lat, Lng) {
     new google.maps.Marker({
         position: { lat: Lat, lng: Lng },
         map,
-        title: "Hello World!",
+        title: "Your location.",
     });
+}
+
+
+function openSuccess() {
+    success.classList.add("open-popup");
+    htmlMain.classList.add("active-popup");
+}
+
+
+
+function openError(msg) {
+    errorMsg.innerHTML = msg;
+    error.classList.add("open-popup");
+    htmlMain.classList.add("active-popup");
+}
+
+function closeError() {
+    error.classList.remove("open-popup");
+    htmlMain.classList.remove("active-popup");
 }
 

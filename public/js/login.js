@@ -81,6 +81,8 @@ function login(email, pass) {
         });
 }
 
+
+
 function createUser(requestOptions) {
     const alert = document.getElementById("alert-sign-up");
     fetch( origin + "/users", requestOptions)

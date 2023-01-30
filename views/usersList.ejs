@@ -20,27 +20,27 @@
     <nav id="sidebarMenu" class="collapse d-lg-block sidebar collapse bg-white">
         <div class="position-sticky">
             <div class="list-group list-group-flush mx-3 mt-4">
-                <a href="home" class="list-group-item list-group-item-action py-2 ripple">
+                <a href="/home" class="list-group-item list-group-item-action py-2 ripple">
                     <i class="fa-regular fa-house"></i>
                     <span>Home</span>
                 </a>
-                <a href="reports" class="list-group-item list-group-item-action py-2 ripple">
+                <a href="/reportsList/<%= user._id %>" class="list-group-item list-group-item-action py-2 ripple">
                     <i class="fa-regular fa-message-exclamation"></i>
                     <span>My reports</span>
                 </a>
-                <a href="map" class="list-group-item list-group-item-action py-2 ripple">
+                <a href="/map" class="list-group-item list-group-item-action py-2 ripple">
                     <i class="fa-regular fa-map-location-dot"></i>
                     <span>Map</span>
                 </a>
-                <a href="usersList" class="list-group-item list-group-item-action py-2 ripple active">
+                <a href="/usersList" class="list-group-item list-group-item-action py-2 ripple active">
                     <i class="fa-regular fa-users"></i>
                     <span>Users</span>
                 </a>
-                <a href="reportForm" class="list-group-item list-group-item-action py-2 ripple">
+                <a href="/reportForm" class="list-group-item list-group-item-action py-2 ripple">
                     <i class="fa-regular fa-location-plus"></i>
                     <span>Report</span>
                 </a>
-                <a href="contact" class="list-group-item list-group-item-action py-2 ripple mb-4">
+                <a href="/contact" class="list-group-item list-group-item-action py-2 ripple mb-4">
                     <i class="fa-regular fa-messages"></i>
                     <span>Contact us</span>
                 </a>
@@ -50,7 +50,7 @@
     <div class="shift">
         <div class="row wrapper">
             <div class="col d-flex align-items-center">
-                <a class="navbar-brand logo" href="home"></a>
+                <a class="navbar-brand logo" href="home/<%= user._id %>"></a>
             </div>
             <div class="col d-flex justify-content-end">
                 <div class="dropdown notification-list">
@@ -67,7 +67,7 @@
                         <div class=" dropdown-header noti-title">
                             <h6 class="text-overflow m-0">Hey there</h6>
                         </div>
-                        <a href="profile" class="dropdown-item notify-item">
+                        <a href="/profile/<%= user._id %>" class="dropdown-item notify-item">
                             <span><i class="fa-regular fa-user"></i></span>
                             <span>Profile</span>
                         </a>

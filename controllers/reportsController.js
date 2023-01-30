@@ -77,7 +77,7 @@ exports.reportsController = {
             const report = await checkIfExists(id);
             const result = await reportsRepository.rateReport(rank, report);
             if (result !== true)
-                console.log("send email to the admin");
+                res.status(200).send("send email to the admin");
             else
                 res.status(200).send("Succeeded.");
         } catch (e) {
@@ -144,6 +144,17 @@ exports.reportsController = {
         } catch (e) {
 
         }
+    },
+    async getReportLocations(req, res) {
+        const reports = await reportsRepository.find();
+        const locations = [];
+        reports.forEach(report => {
+            locations.push({
+                _id: report["_id"],
+                coordinates: report.location.coordinates
+            });
+        });
+        res.status(200).json(locations);
     }
 }
 

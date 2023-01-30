@@ -10,7 +10,8 @@
 }
 
 .board {
-    border: 3px solid mediumvioletred;
+    /*border: 3px solid mediumvioletred;*/
+    margin-top: 40px;
 }
 
 *{
@@ -204,6 +205,15 @@ nav .active, nav .active span, nav .active i {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
+.post-head p {
+    font-size: 10px;
+}
+
+.post-head a {
+    font-size: 12px;
 }
 
 .row, p {
@@ -236,7 +246,6 @@ nav .active, nav .active span, nav .active i {
 
 #reports {
     flex: 1;
-    border: 2px solid plum;
     transition: all .2s ease-in-out;
     display: flex;
     flex-direction: column;
@@ -642,8 +651,17 @@ i {
 
 }
 
+#add-image {
+    width: fit-content;
+}
+
 .danger-popup {
     background: var(--danger);
+    color: white;
+}
+
+.success-popup {
+    background: rgb(66, 248, 61);
     color: white;
 }
 

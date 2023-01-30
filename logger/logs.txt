@@ -1280,3 +1280,1220 @@
 12-29-22 02:58 -> connected to mongoDB
 12-29-22 02:58 -> connected to mongoDB
 12-29-22 02:58 -> roy@accessibility.com logged in successfully
+12-29-22 01:12 -> connected to mongoDB
+12-29-22 01:12 -> connected to mongoDB
+12-29-22 01:16 -> connected to mongoDB
+12-29-22 01:16 -> connected to mongoDB
+12-29-22 01:17 -> connected to mongoDB
+12-29-22 01:17 -> connected to mongoDB
+12-29-22 01:18 -> connected to mongoDB
+12-29-22 01:18 -> connected to mongoDB
+12-29-22 01:18 -> connected to mongoDB
+12-29-22 01:18 -> connected to mongoDB
+12-29-22 01:18 -> roy@accessibility.com logged in successfully
+12-29-22 01:20 -> connected to mongoDB
+12-29-22 01:20 -> connected to mongoDB
+12-29-22 01:21 -> roy@accessibility.com logged in successfully
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:26 -> roy@accessibility.com logged in successfully
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:26 -> connected to mongoDB
+12-29-22 01:27 -> connected to mongoDB
+12-29-22 01:27 -> connected to mongoDB
+12-29-22 01:27 -> roy@accessibility.com logged in successfully
+12-29-22 01:27 -> connected to mongoDB
+12-29-22 01:27 -> connected to mongoDB
+12-29-22 01:28 -> connected to mongoDB
+12-29-22 01:28 -> connected to mongoDB
+12-29-22 01:29 -> connected to mongoDB
+12-29-22 01:29 -> connected to mongoDB
+12-29-22 01:29 -> roy@accessibility.com logged in successfully
+12-29-22 01:30 -> connected to mongoDB
+12-29-22 01:30 -> connected to mongoDB
+12-29-22 01:30 -> roy@accessibility.com logged in successfully
+12-29-22 01:30 -> roy@accessibility.com logged in successfully
+12-29-22 01:31 -> connected to mongoDB
+12-29-22 01:31 -> connected to mongoDB
+12-29-22 01:34 -> connected to mongoDB
+12-29-22 01:34 -> connected to mongoDB
+12-29-22 01:35 -> connected to mongoDB
+12-29-22 01:35 -> connected to mongoDB
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:41 -> connected to mongoDB
+12-29-22 02:42 -> Creating a new user.
+12-29-22 02:43 -> connected to mongoDB
+12-29-22 02:43 -> connected to mongoDB
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:44 -> connected to mongoDB
+12-29-22 02:44 -> Creating a new user.
+12-29-22 02:45 -> connected to mongoDB
+12-29-22 02:45 -> connected to mongoDB
+12-29-22 02:54 -> connected to mongoDB
+12-29-22 02:54 -> connected to mongoDB
+12-29-22 02:56 -> connected to mongoDB
+12-29-22 02:56 -> connected to mongoDB
+12-29-22 02:56 -> Creating a new user.
+12-29-22 02:56 -> connected to mongoDB
+12-29-22 02:56 -> connected to mongoDB
+12-29-22 02:56 -> roy@accessibility.com logged in successfully
+12-29-22 05:09 -> connected to mongoDB
+12-29-22 05:09 -> connected to mongoDB
+12-29-22 05:09 -> connected to mongoDB
+12-29-22 05:09 -> connected to mongoDB
+12-29-22 05:11 -> connected to mongoDB
+12-29-22 05:11 -> connected to mongoDB
+12-29-22 05:12 -> connected to mongoDB
+12-29-22 05:12 -> connected to mongoDB
+12-29-22 05:16 -> connected to mongoDB
+12-29-22 05:16 -> connected to mongoDB
+12-29-22 05:17 -> connected to mongoDB
+12-29-22 05:17 -> connected to mongoDB
+12-29-22 05:20 -> connected to mongoDB
+12-29-22 05:20 -> connected to mongoDB
+12-29-22 05:21 -> connected to mongoDB
+12-29-22 05:21 -> connected to mongoDB
+12-29-22 05:21 -> connected to mongoDB
+12-29-22 05:21 -> connected to mongoDB
+12-29-22 05:21 -> connected to mongoDB
+12-29-22 05:21 -> connected to mongoDB
+12-29-22 05:23 -> connected to mongoDB
+12-29-22 05:23 -> connected to mongoDB
+12-29-22 05:23 -> connected to mongoDB
+12-29-22 05:23 -> connected to mongoDB
+12-29-22 05:24 -> connected to mongoDB
+12-29-22 05:24 -> connected to mongoDB
+12-29-22 05:25 -> connected to mongoDB
+12-29-22 05:25 -> connected to mongoDB
+12-29-22 05:26 -> connected to mongoDB
+12-29-22 05:26 -> connected to mongoDB
+12-29-22 05:26 -> connected to mongoDB
+12-29-22 05:26 -> connected to mongoDB
+12-29-22 05:26 -> Creating a new user.
+12-29-22 05:26 -> Creating a new user.
+12-29-22 05:26 -> connected to mongoDB
+12-29-22 05:26 -> connected to mongoDB
+12-29-22 05:27 -> connected to mongoDB
+12-29-22 05:27 -> connected to mongoDB
+12-29-22 05:28 -> connected to mongoDB
+12-29-22 05:28 -> connected to mongoDB
+12-29-22 05:29 -> connected to mongoDB
+12-29-22 05:29 -> connected to mongoDB
+12-29-22 05:31 -> connected to mongoDB
+12-29-22 05:31 -> connected to mongoDB
+12-29-22 05:31 -> connected to mongoDB
+12-29-22 05:31 -> connected to mongoDB
+12-29-22 05:37 -> connected to mongoDB
+12-29-22 05:37 -> connected to mongoDB
+12-29-22 05:38 -> Creating a new user.
+12-29-22 05:38 -> connected to mongoDB
+12-29-22 05:38 -> connected to mongoDB
+12-29-22 05:39 -> connected to mongoDB
+12-29-22 05:39 -> connected to mongoDB
+12-29-22 05:39 -> connected to mongoDB
+12-29-22 05:39 -> connected to mongoDB
+12-29-22 05:42 -> connected to mongoDB
+12-29-22 05:42 -> connected to mongoDB
+12-29-22 05:42 -> Creating a new user.
+12-29-22 05:42 -> connected to mongoDB
+12-29-22 05:42 -> connected to mongoDB
+12-29-22 05:43 -> connected to mongoDB
+12-29-22 05:43 -> connected to mongoDB
+12-29-22 05:43 -> connected to mongoDB
+12-29-22 05:43 -> connected to mongoDB
+12-29-22 05:43 -> Creating a new user.
+12-29-22 05:44 -> roy@accessibility.com logged in successfully
+12-29-22 05:52 -> connected to mongoDB
+12-29-22 05:52 -> connected to mongoDB
+12-29-22 05:53 -> connected to mongoDB
+12-29-22 05:53 -> connected to mongoDB
+12-29-22 05:53 -> roy@accessibility.com logged in successfully
+12-29-22 05:56 -> roy@accessibility.com logged in successfully
+12-29-22 05:56 -> roy@accessibility.com logged in successfully
+12-29-22 06:00 -> roy@accessibility.com logged in successfully
+12-29-22 06:00 -> roy@accessibility.com logged in successfully
+12-29-22 06:01 -> connected to mongoDB
+12-29-22 06:01 -> connected to mongoDB
+12-29-22 06:01 -> roy@accessibility.com logged in successfully
+12-29-22 06:01 -> roy@accessibility.com logged in successfully
+12-29-22 06:02 -> connected to mongoDB
+12-29-22 06:02 -> connected to mongoDB
+12-29-22 06:03 -> connected to mongoDB
+12-29-22 06:03 -> connected to mongoDB
+12-29-22 06:03 -> roy@accessibility.com logged in successfully
+12-29-22 06:03 -> connected to mongoDB
+12-29-22 06:03 -> connected to mongoDB
+12-29-22 06:15 -> connected to mongoDB
+12-29-22 06:15 -> connected to mongoDB
+12-29-22 06:15 -> roy@accessibility.com logged in successfully
+12-29-22 06:15 -> connected to mongoDB
+12-29-22 06:15 -> connected to mongoDB
+12-29-22 06:16 -> connected to mongoDB
+12-29-22 06:16 -> connected to mongoDB
+12-29-22 06:17 -> connected to mongoDB
+12-29-22 06:17 -> connected to mongoDB
+12-29-22 06:17 -> connected to mongoDB
+12-29-22 06:17 -> connected to mongoDB
+12-29-22 06:18 -> roy@accessibility.com logged in successfully
+12-29-22 06:31 -> connected to mongoDB
+12-29-22 06:31 -> connected to mongoDB
+12-29-22 06:31 -> connected to mongoDB
+12-29-22 06:31 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:32 -> connected to mongoDB
+12-29-22 06:33 -> connected to mongoDB
+12-29-22 06:33 -> connected to mongoDB
+12-29-22 06:34 -> connected to mongoDB
+12-29-22 06:34 -> connected to mongoDB
+12-29-22 06:34 -> connected to mongoDB
+12-29-22 06:34 -> connected to mongoDB
+12-29-22 06:34 -> connected to mongoDB
+12-29-22 06:34 -> connected to mongoDB
+12-29-22 07:11 -> connected to mongoDB
+12-29-22 07:11 -> connected to mongoDB
+12-29-22 07:11 -> User roy@accessibility.com is not found!.
+12-29-22 07:12 -> Creating a new user.
+12-29-22 07:12 -> roy@accessibility.com logged in successfully
+12-29-22 07:17 -> connected to mongoDB
+12-29-22 07:17 -> connected to mongoDB
+12-29-22 07:17 -> connected to mongoDB
+12-29-22 07:17 -> connected to mongoDB
+12-29-22 07:21 -> connected to mongoDB
+12-29-22 07:21 -> connected to mongoDB
+12-29-22 07:21 -> connected to mongoDB
+12-29-22 07:21 -> connected to mongoDB
+12-29-22 07:22 -> connected to mongoDB
+12-29-22 07:22 -> connected to mongoDB
+12-29-22 07:22 -> connected to mongoDB
+12-29-22 07:22 -> connected to mongoDB
+12-29-22 07:22 -> User roy@accessibility.com is not found!.
+12-29-22 07:23 -> Creating a new user.
+12-29-22 07:23 -> roy@accessibility.com logged in successfully
+12-29-22 07:23 -> connected to mongoDB
+12-29-22 07:23 -> connected to mongoDB
+12-29-22 07:24 -> roy@accessibility.com logged in successfully
+12-29-22 08:59 -> connected to mongoDB
+12-29-22 08:59 -> connected to mongoDB
+12-29-22 08:59 -> connected to mongoDB
+12-29-22 08:59 -> connected to mongoDB
+12-29-22 09:06 -> connected to mongoDB
+12-29-22 09:07 -> roy@accessibility.com logged in successfully
+12-29-22 09:16 -> roy@accessibility.com logged in successfully
+12-29-22 09:20 -> connected to mongoDB
+12-29-22 09:20 -> connected to mongoDB
+12-29-22 09:26 -> connected to mongoDB
+12-29-22 09:26 -> connected to mongoDB
+12-29-22 09:27 -> connected to mongoDB
+12-29-22 09:28 -> connected to mongoDB
+12-29-22 09:28 -> connected to mongoDB
+12-29-22 09:29 -> Creating a new user.
+12-29-22 09:29 -> connected to mongoDB
+12-29-22 09:29 -> connected to mongoDB
+12-29-22 09:32 -> connected to mongoDB
+12-29-22 09:32 -> connected to mongoDB
+12-29-22 09:37 -> connected to mongoDB
+12-29-22 09:37 -> connected to mongoDB
+12-29-22 09:39 -> connected to mongoDB
+12-29-22 09:39 -> connected to mongoDB
+12-30-22 12:36 -> connected to mongoDB
+12-30-22 12:36 -> connected to mongoDB
+12-30-22 12:42 -> connected to mongoDB
+12-30-22 12:42 -> connected to mongoDB
+12-30-22 12:48 -> connected to mongoDB
+12-30-22 12:49 -> connected to mongoDB
+12-30-22 01:05 -> connected to mongoDB
+12-30-22 01:06 -> connected to mongoDB
+12-30-22 01:14 -> connected to mongoDB
+12-30-22 01:14 -> connected to mongoDB
+12-30-22 01:15 -> connected to mongoDB
+12-30-22 01:15 -> connected to mongoDB
+12-30-22 01:21 -> connected to mongoDB
+12-30-22 01:21 -> connected to mongoDB
+12-30-22 01:24 -> connected to mongoDB
+12-30-22 01:24 -> connected to mongoDB
+12-30-22 01:24 -> connected to mongoDB
+12-30-22 01:27 -> connected to mongoDB
+12-30-22 01:27 -> connected to mongoDB
+12-30-22 01:29 -> connected to mongoDB
+12-30-22 01:29 -> connected to mongoDB
+12-30-22 01:31 -> connected to mongoDB
+12-30-22 01:32 -> connected to mongoDB
+12-30-22 01:32 -> connected to mongoDB
+12-30-22 01:33 -> connected to mongoDB
+12-30-22 01:34 -> connected to mongoDB
+12-30-22 01:36 -> connected to mongoDB
+12-30-22 01:36 -> connected to mongoDB
+12-30-22 01:37 -> connected to mongoDB
+12-30-22 01:37 -> connected to mongoDB
+12-30-22 01:41 -> connected to mongoDB
+12-30-22 01:41 -> connected to mongoDB
+12-30-22 01:42 -> connected to mongoDB
+12-30-22 01:49 -> connected to mongoDB
+12-30-22 01:50 -> connected to mongoDB
+12-30-22 01:50 -> connected to mongoDB
+12-30-22 01:51 -> connected to mongoDB
+12-30-22 01:51 -> connected to mongoDB
+12-30-22 01:52 -> connected to mongoDB
+12-30-22 01:59 -> connected to mongoDB
+12-30-22 02:00 -> connected to mongoDB
+12-30-22 02:39 -> roy@accessibility.com logged in successfully
+12-30-22 10:58 -> connected to mongoDB
+12-30-22 10:58 -> connected to mongoDB
+12-30-22 11:01 -> connected to mongoDB
+12-30-22 11:02 -> connected to mongoDB
+12-30-22 11:17 -> connected to mongoDB
+12-30-22 11:18 -> connected to mongoDB
+12-30-22 11:27 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-30-22 11:28 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+12-30-22 11:30 -> connected to mongoDB
+12-30-22 11:30 -> roy@accessibility.com logged in successfully
+12-30-22 11:34 -> connected to mongoDB
+12-30-22 11:35 -> roy@accessibility.com logged in successfully
+12-30-22 11:35 -> roy@accessibility.com logged out.
+12-30-22 11:35 -> roy@accessibility.com logged in successfully
+12-30-22 11:37 -> roy@accessibility.com logged in successfully
+12-31-22 12:48 -> roy@accessibility.com logged out.
+12-31-22 12:48 -> roy@accessibility.com logged in successfully
+12-31-22 12:48 -> roy@accessibility.com logged in successfully
+12-31-22 12:49 -> roy@accessibility.com logged out.
+12-31-22 12:49 -> roy@accessibility.com logged in successfully
+12-31-22 12:57 -> connected to mongoDB
+12-31-22 12:57 -> roy@accessibility.com logged in successfully
+12-31-22 12:59 -> connected to mongoDB
+12-31-22 12:59 -> roy@accessibility.com logged in successfully
+12-31-22 12:52 -> roy@accessibility.com logged out.
+01-01-23 02:09 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-01-23 02:11 -> connected to mongoDB
+01-01-23 02:11 -> roy@accessibility.com logged in successfully
+01-01-23 02:13 -> roy@accessibility.com logged out.
+01-01-23 03:24 -> roy@accessibility.com logged in successfully
+01-01-23 03:26 -> roy@accessibility.com logged out.
+01-01-23 03:26 -> roy@accessibility.com logged in successfully
+01-01-23 03:27 -> roy@accessibility.com logged out.
+01-01-23 03:27 -> roy@accessibility.com failed to login
+01-01-23 04:01 -> roy@accessibility.com logged in successfully
+01-01-23 04:02 -> roy@accessibility.com logged out.
+01-01-23 04:05 -> roy@accessibility.com logged in successfully
+01-01-23 04:07 -> roy@accessibility.com logged out.
+01-01-23 04:07 -> User aa@aa.com is not found!.
+01-01-23 04:07 -> roy@accessibility.com failed to login
+01-02-23 05:47 -> connected to mongoDB
+01-02-23 05:49 -> connected to mongoDB
+01-02-23 05:49 -> roy@accessibility.com logged in successfully
+01-02-23 06:08 -> roy@accessibility.com logged out.
+01-02-23 06:08 -> User aa@aa.com is not found!.
+01-02-23 06:08 -> User aa@aa.com is not found!.
+01-02-23 06:08 -> roy@accessibility.com failed to login
+01-02-23 07:23 -> connected to mongoDB
+01-02-23 07:24 -> roy@accessibility.com logged in successfully
+01-02-23 08:02 -> connected to mongoDB
+01-02-23 08:02 -> roy@accessibility.com logged in successfully
+01-02-23 08:02 -> roy@accessibility.com logged out.
+01-04-23 01:56 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-04-23 01:57 -> connected to mongoDB
+01-04-23 01:58 -> roy@accessibility.com logged in successfully
+01-04-23 01:59 -> roy@accessibility.com logged out.
+01-04-23 02:03 -> roy@accessibility.com failed to login
+01-04-23 01:50 -> roy@accessibility.com logged in successfully
+01-04-23 01:53 -> roy@accessibility.com logged out.
+01-07-23 03:46 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-08-23 10:13 -> connected to mongoDB
+01-08-23 10:50 -> connected to mongoDB
+01-08-23 10:52 -> connected to mongoDB
+01-08-23 10:52 -> roy@accessibility.com logged in successfully
+01-08-23 10:52 -> connected to mongoDB
+01-08-23 10:53 -> connected to mongoDB
+01-08-23 10:54 -> connected to mongoDB
+01-08-23 10:55 -> roy@accessibility.com logged in successfully
+01-08-23 10:55 -> connected to mongoDB
+01-08-23 10:56 -> roy@accessibility.com logged in successfully
+01-08-23 10:56 -> connected to mongoDB
+01-08-23 10:56 -> roy@accessibility.com logged in successfully
+01-08-23 10:57 -> connected to mongoDB
+01-08-23 10:57 -> roy@accessibility.com logged in successfully
+01-08-23 10:57 -> connected to mongoDB
+01-08-23 10:58 -> roy@accessibility.com logged in successfully
+01-08-23 10:58 -> connected to mongoDB
+01-08-23 10:58 -> roy@accessibility.com logged in successfully
+01-08-23 10:58 -> connected to mongoDB
+01-08-23 10:58 -> connected to mongoDB
+01-08-23 10:59 -> roy@accessibility.com logged in successfully
+01-08-23 10:59 -> connected to mongoDB
+01-08-23 10:59 -> connected to mongoDB
+01-08-23 11:00 -> connected to mongoDB
+01-08-23 11:00 -> connected to mongoDB
+01-08-23 11:00 -> roy@accessibility.com logged in successfully
+01-08-23 11:01 -> connected to mongoDB
+01-08-23 11:03 -> roy@accessibility.com logged in successfully
+01-08-23 11:03 -> roy@accessibility.com logged out.
+01-08-23 11:03 -> connected to mongoDB
+01-08-23 11:04 -> roy@accessibility.com logged in successfully
+01-08-23 11:04 -> roy@accessibility.com logged out.
+01-08-23 11:19 -> connected to mongoDB
+01-08-23 05:21 -> connected to mongoDB
+01-08-23 05:22 -> roy@accessibility.com logged in successfully
+01-08-23 05:22 -> roy@accessibility.com logged out.
+01-10-23 03:28 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-10-23 04:16 -> connected to mongoDB
+01-10-23 04:17 -> roy@accessibility.com logged in successfully
+01-10-23 04:18 -> Getting all users.
+01-10-23 04:18 -> Getting all users.
+01-10-23 04:18 -> Getting all users.
+01-10-23 04:20 -> connected to mongoDB
+01-10-23 04:20 -> connected to mongoDB
+01-10-23 04:21 -> connected to mongoDB
+01-10-23 04:21 -> roy@accessibility.com logged in successfully
+01-10-23 04:21 -> Getting all users.
+01-10-23 04:21 -> connected to mongoDB
+01-10-23 04:21 -> Getting all users.
+01-10-23 04:21 -> Getting all users.
+01-10-23 04:21 -> roy@accessibility.com logged in successfully
+01-10-23 04:21 -> Getting all users.
+01-10-23 04:22 -> connected to mongoDB
+01-10-23 04:27 -> connected to mongoDB
+01-10-23 04:27 -> Getting all users.
+01-10-23 04:27 -> roy@accessibility.com logged in successfully
+01-10-23 04:27 -> Getting all users.
+01-10-23 04:28 -> connected to mongoDB
+01-10-23 04:28 -> roy@accessibility.com logged in successfully
+01-10-23 08:51 -> connected to mongoDB
+01-10-23 08:51 -> connected to mongoDB
+01-10-23 08:51 -> roy@accessibility.com logged in successfully
+01-10-23 08:55 -> connected to mongoDB
+01-10-23 08:56 -> roy@accessibility.com logged in successfully
+01-10-23 09:23 -> connected to mongoDB
+01-10-23 09:27 -> roy@accessibility.com logged in successfully
+01-10-23 11:40 -> roy@accessibility.com logged out.
+01-10-23 11:47 -> connected to mongoDB
+01-10-23 11:48 -> roy@accessibility.com logged in successfully
+01-11-23 01:18 -> roy@accessibility.com logged out.
+01-11-23 01:20 -> roy@accessibility.com logged in successfully
+01-12-23 04:31 -> connected to mongoDB
+01-12-23 04:31 -> roy@accessibility.com logged in successfully
+01-12-23 04:33 -> roy@accessibility.com logged out.
+01-12-23 04:34 -> roy@accessibility.com logged in successfully
+01-12-23 04:35 -> connected to mongoDB
+01-12-23 04:35 -> roy@accessibility.com logged in successfully
+01-12-23 04:36 -> roy@accessibility.com logged out.
+01-12-23 04:36 -> roy@accessibility.com logged in successfully
+01-12-23 04:49 -> roy@accessibility.com logged out.
+01-13-23 12:08 -> connected to mongoDB
+01-13-23 12:09 -> Creating a new user.
+01-13-23 12:14 -> roy@accessibility.com logged in successfully
+01-13-23 12:14 -> Delete user roy@accessibility.com.
+01-13-23 12:15 -> Creating a new user.
+01-13-23 12:17 -> connected to mongoDB
+01-13-23 12:20 -> connected to mongoDB
+01-13-23 12:20 -> roy@accessibility.com logged in successfully
+01-13-23 12:22 -> connected to mongoDB
+01-13-23 12:22 -> roy@accessibility.com logged in successfully
+01-13-23 12:22 -> Delete user roy@accessibility.com.
+01-13-23 12:22 -> Creating a new user.
+01-13-23 12:22 -> roy@accessibility.com logged in successfully
+01-13-23 12:23 -> Delete user roy@accessibility.com.
+01-13-23 12:23 -> Creating a new user.
+01-13-23 12:23 -> connected to mongoDB
+01-13-23 12:23 -> roy@accessibility.com logged in successfully
+01-13-23 12:23 -> Delete user roy@accessibility.com.
+01-13-23 12:24 -> connected to mongoDB
+01-13-23 12:28 -> connected to mongoDB
+01-13-23 12:29 -> connected to mongoDB
+01-13-23 12:30 -> connected to mongoDB
+01-13-23 12:30 -> connected to mongoDB
+01-13-23 12:30 -> User roy@accessibility.com is not found!.
+01-13-23 12:30 -> connected to mongoDB
+01-13-23 12:30 -> Creating a new user.
+01-13-23 12:30 -> roy@accessibility.com logged in successfully
+01-13-23 12:30 -> Delete user roy@accessibility.com.
+01-13-23 12:30 -> connected to mongoDB
+01-13-23 12:30 -> Creating a new user.
+01-13-23 12:30 -> roy@accessibility.com logged in successfully
+01-13-23 12:31 -> Delete user roy@accessibility.com.
+01-13-23 12:31 -> connected to mongoDB
+01-13-23 12:31 -> connected to mongoDB
+01-13-23 12:31 -> Creating a new user.
+01-13-23 12:31 -> roy@accessibility.com logged in successfully
+01-13-23 12:31 -> Delete user roy@accessibility.com.
+01-13-23 12:32 -> connected to mongoDB
+01-13-23 12:37 -> connected to mongoDB
+01-13-23 12:37 -> User roy@accessibility.com is not found!.
+01-13-23 12:37 -> Creating a new user.
+01-13-23 12:37 -> roy@accessibility.com logged in successfully
+01-13-23 12:37 -> Delete user roy@accessibility.com.
+01-13-23 12:38 -> connected to mongoDB
+01-13-23 12:39 -> connected to mongoDB
+01-13-23 12:39 -> connected to mongoDB
+01-13-23 12:42 -> connected to mongoDB
+01-13-23 12:43 -> connected to mongoDB
+01-13-23 12:43 -> Creating a new user.
+01-13-23 12:43 -> roy@accessibility.com logged in successfully
+01-13-23 12:48 -> connected to mongoDB
+01-13-23 12:48 -> roy@accessibility.com logged in successfully
+01-13-23 12:48 -> connected to mongoDB
+01-13-23 12:49 -> connected to mongoDB
+01-13-23 12:49 -> connected to mongoDB
+01-13-23 12:49 -> roy@accessibility.com logged in successfully
+01-13-23 12:52 -> connected to mongoDB
+01-13-23 12:53 -> roy@accessibility.com logged in successfully
+01-13-23 12:53 -> connected to mongoDB
+01-13-23 12:53 -> connected to mongoDB
+01-13-23 12:53 -> connected to mongoDB
+01-13-23 12:54 -> connected to mongoDB
+01-13-23 12:54 -> connected to mongoDB
+01-13-23 01:00 -> connected to mongoDB
+01-13-23 01:01 -> connected to mongoDB
+01-13-23 01:05 -> connected to mongoDB
+01-13-23 01:06 -> connected to mongoDB
+01-13-23 01:06 -> connected to mongoDB
+01-13-23 01:07 -> connected to mongoDB
+01-13-23 01:08 -> connected to mongoDB
+01-13-23 01:08 -> connected to mongoDB
+01-13-23 01:08 -> roy@accessibility.com logged in successfully
+01-13-23 01:10 -> connected to mongoDB
+01-13-23 01:10 -> roy@accessibility.com logged in successfully
+01-13-23 01:10 -> connected to mongoDB
+01-13-23 01:10 -> connected to mongoDB
+01-13-23 01:11 -> roy@accessibility.com logged in successfully
+01-13-23 01:11 -> connected to mongoDB
+01-13-23 01:11 -> connected to mongoDB
+01-13-23 01:11 -> roy@accessibility.com logged in successfully
+01-13-23 01:12 -> connected to mongoDB
+01-13-23 01:12 -> roy@accessibility.com logged in successfully
+01-13-23 01:15 -> connected to mongoDB
+01-13-23 01:16 -> connected to mongoDB
+01-13-23 01:16 -> connected to mongoDB
+01-13-23 01:16 -> roy@accessibility.com logged in successfully
+01-13-23 01:16 -> Delete user roy@accessibility.com.
+01-13-23 01:17 -> connected to mongoDB
+01-13-23 01:17 -> Creating a new user.
+01-13-23 01:17 -> roy@accessibility.com logged in successfully
+01-13-23 01:17 -> Delete user roy@accessibility.com.
+01-13-23 01:17 -> connected to mongoDB
+01-13-23 01:17 -> connected to mongoDB
+01-13-23 01:18 -> connected to mongoDB
+01-13-23 01:19 -> connected to mongoDB
+01-13-23 01:19 -> User roy@accessibility.com is not found!.
+01-13-23 01:19 -> Creating a new user.
+01-13-23 01:19 -> roy@accessibility.com logged in successfully
+01-13-23 01:19 -> connected to mongoDB
+01-13-23 01:19 -> roy@accessibility.com logged in successfully
+01-13-23 01:19 -> Delete user roy@accessibility.com.
+01-13-23 01:20 -> connected to mongoDB
+01-13-23 01:20 -> Creating a new user.
+01-13-23 01:20 -> roy@accessibility.com logged in successfully
+01-13-23 01:20 -> connected to mongoDB
+01-13-23 01:23 -> connected to mongoDB
+01-13-23 01:23 -> connected to mongoDB
+01-13-23 01:24 -> connected to mongoDB
+01-13-23 01:25 -> connected to mongoDB
+01-13-23 01:25 -> roy@accessibility.com logged in successfully
+01-13-23 01:25 -> roy@accessibility.com logged in successfully
+01-13-23 01:25 -> Delete user roy@accessibility.com.
+01-13-23 01:26 -> connected to mongoDB
+01-13-23 01:27 -> Creating a new user.
+01-13-23 01:27 -> roy@accessibility.com logged in successfully
+01-13-23 01:27 -> connected to mongoDB
+01-13-23 01:27 -> connected to mongoDB
+01-13-23 01:27 -> roy@accessibility.com logged in successfully
+01-13-23 01:28 -> connected to mongoDB
+01-13-23 01:28 -> roy@accessibility.com logged in successfully
+01-13-23 01:30 -> connected to mongoDB
+01-13-23 01:30 -> connected to mongoDB
+01-13-23 01:30 -> connected to mongoDB
+01-13-23 01:30 -> connected to mongoDB
+01-13-23 01:30 -> roy@accessibility.com logged in successfully
+01-13-23 01:31 -> connected to mongoDB
+01-13-23 01:32 -> connected to mongoDB
+01-13-23 01:32 -> roy@accessibility.com logged in successfully
+01-13-23 01:32 -> connected to mongoDB
+01-13-23 01:32 -> connected to mongoDB
+01-13-23 01:33 -> connected to mongoDB
+01-13-23 01:34 -> connected to mongoDB
+01-13-23 01:34 -> connected to mongoDB
+01-13-23 01:36 -> connected to mongoDB
+01-13-23 01:36 -> roy@accessibility.com logged in successfully
+01-13-23 01:36 -> connected to mongoDB
+01-13-23 01:36 -> connected to mongoDB
+01-13-23 01:36 -> roy@accessibility.com logged in successfully
+01-13-23 01:37 -> connected to mongoDB
+01-13-23 01:37 -> connected to mongoDB
+01-13-23 01:37 -> roy@accessibility.com logged in successfully
+01-13-23 01:37 -> connected to mongoDB
+01-13-23 01:38 -> connected to mongoDB
+01-13-23 01:44 -> connected to mongoDB
+01-13-23 01:44 -> connected to mongoDB
+01-13-23 01:44 -> connected to mongoDB
+01-13-23 01:44 -> connected to mongoDB
+01-13-23 01:48 -> connected to mongoDB
+01-13-23 01:48 -> connected to mongoDB
+01-13-23 01:49 -> roy@accessibility.com logged in successfully
+01-13-23 01:49 -> connected to mongoDB
+01-13-23 01:49 -> roy@accessibility.com logged in successfully
+01-13-23 01:49 -> Delete user roy@accessibility.com.
+01-13-23 01:49 -> connected to mongoDB
+01-13-23 01:49 -> Creating a new user.
+01-13-23 01:49 -> roy@accessibility.com logged in successfully
+01-13-23 01:49 -> Delete user roy@accessibility.com.
+01-13-23 01:50 -> connected to mongoDB
+01-13-23 01:50 -> Creating a new user.
+01-13-23 01:50 -> roy@accessibility.com logged in successfully
+01-13-23 01:50 -> Delete user roy@accessibility.com.
+01-13-23 01:50 -> connected to mongoDB
+01-13-23 01:50 -> Creating a new user.
+01-13-23 01:50 -> roy@accessibility.com logged in successfully
+01-13-23 01:50 -> Delete user roy@accessibility.com.
+01-13-23 01:51 -> connected to mongoDB
+01-13-23 01:51 -> connected to mongoDB
+01-13-23 01:51 -> connected to mongoDB
+01-13-23 01:57 -> connected to mongoDB
+01-13-23 01:58 -> connected to mongoDB
+01-13-23 01:58 -> Creating a new user.
+01-13-23 01:58 -> roy@accessibility.com logged in successfully
+01-13-23 01:58 -> Delete user roy@accessibility.com.
+01-13-23 02:00 -> connected to mongoDB
+01-13-23 02:00 -> connected to mongoDB
+01-13-23 02:01 -> connected to mongoDB
+01-13-23 02:01 -> User roy@accessibility.com is not found!.
+01-13-23 02:01 -> Creating a new user.
+01-13-23 02:01 -> roy@accessibility.com logged in successfully
+01-13-23 02:01 -> connected to mongoDB
+01-13-23 02:03 -> connected to mongoDB
+01-13-23 02:03 -> connected to mongoDB
+01-13-23 02:03 -> connected to mongoDB
+01-13-23 02:03 -> roy@accessibility.com logged in successfully
+01-13-23 02:04 -> connected to mongoDB
+01-13-23 02:04 -> roy@accessibility.com logged in successfully
+01-13-23 02:04 -> connected to mongoDB
+01-13-23 02:04 -> roy@accessibility.com logged in successfully
+01-13-23 02:06 -> connected to mongoDB
+01-13-23 02:06 -> connected to mongoDB
+01-13-23 02:07 -> connected to mongoDB
+01-13-23 02:08 -> roy@accessibility.com logged in successfully
+01-13-23 02:08 -> connected to mongoDB
+01-13-23 02:08 -> roy@accessibility.com logged in successfully
+01-13-23 02:09 -> connected to mongoDB
+01-13-23 02:09 -> roy@accessibility.com logged in successfully
+01-13-23 02:09 -> connected to mongoDB
+01-13-23 02:12 -> connected to mongoDB
+01-13-23 02:12 -> Creating a new user.
+01-13-23 02:12 -> roy@accessibility.com logged in successfully
+01-13-23 02:13 -> connected to mongoDB
+01-13-23 02:13 -> roy@accessibility.com logged in successfully
+01-13-23 02:13 -> connected to mongoDB
+01-13-23 02:14 -> connected to mongoDB
+01-13-23 02:14 -> roy@accessibility.com logged in successfully
+01-13-23 02:14 -> connected to mongoDB
+01-13-23 02:14 -> roy@accessibility.com logged in successfully
+01-13-23 02:15 -> connected to mongoDB
+01-13-23 02:16 -> connected to mongoDB
+01-13-23 02:16 -> roy@accessibility.com logged in successfully
+01-13-23 02:16 -> connected to mongoDB
+01-13-23 02:16 -> roy@accessibility.com logged in successfully
+01-13-23 02:16 -> Delete user roy@accessibility.com.
+01-13-23 02:17 -> connected to mongoDB
+01-13-23 02:17 -> connected to mongoDB
+01-13-23 02:17 -> Creating a new user.
+01-13-23 02:17 -> roy@accessibility.com logged in successfully
+01-13-23 02:17 -> Delete user roy@accessibility.com.
+01-13-23 02:17 -> connected to mongoDB
+01-13-23 02:18 -> connected to mongoDB
+01-13-23 02:18 -> User roy@accessibility.com is not found!.
+01-13-23 02:18 -> Creating a new user.
+01-13-23 02:18 -> roy@accessibility.com logged in successfully
+01-13-23 02:19 -> Delete user roy@accessibility.com.
+01-13-23 02:19 -> connected to mongoDB
+01-13-23 02:22 -> connected to mongoDB
+01-13-23 02:22 -> User roy@accessibility.com is not found!.
+01-13-23 02:22 -> Creating a new user.
+01-13-23 02:22 -> roy@accessibility.com logged in successfully
+01-13-23 02:22 -> Delete user roy@accessibility.com.
+01-13-23 02:22 -> connected to mongoDB
+01-13-23 02:22 -> connected to mongoDB
+01-13-23 02:23 -> Creating a new user.
+01-13-23 02:23 -> roy@accessibility.com logged in successfully
+01-13-23 02:23 -> connected to mongoDB
+01-13-23 02:24 -> connected to mongoDB
+01-13-23 02:24 -> roy@accessibility.com logged in successfully
+01-13-23 02:24 -> Delete user roy@accessibility.com.
+01-13-23 02:25 -> connected to mongoDB
+01-13-23 02:27 -> connected to mongoDB
+01-13-23 02:28 -> User roy@accessibility.com is not found!.
+01-13-23 02:28 -> Creating a new user.
+01-13-23 02:28 -> roy@accessibility.com logged in successfully
+01-13-23 02:28 -> connected to mongoDB
+01-13-23 02:28 -> roy@accessibility.com logged in successfully
+01-13-23 02:28 -> connected to mongoDB
+01-13-23 02:28 -> roy@accessibility.com logged in successfully
+01-13-23 02:28 -> connected to mongoDB
+01-13-23 02:29 -> connected to mongoDB
+01-13-23 02:29 -> connected to mongoDB
+01-13-23 02:29 -> roy@accessibility.com logged in successfully
+01-13-23 02:29 -> connected to mongoDB
+01-13-23 02:29 -> connected to mongoDB
+01-13-23 02:29 -> roy@accessibility.com logged in successfully
+01-13-23 02:30 -> connected to mongoDB
+01-13-23 02:31 -> connected to mongoDB
+01-13-23 02:31 -> connected to mongoDB
+01-13-23 02:31 -> connected to mongoDB
+01-13-23 02:31 -> roy@accessibility.com logged in successfully
+01-13-23 02:31 -> Delete user roy@accessibility.com.
+01-13-23 02:32 -> connected to mongoDB
+01-13-23 02:32 -> connected to mongoDB
+01-13-23 02:33 -> connected to mongoDB
+01-13-23 02:33 -> User roy@accessibility.com is not found!.
+01-13-23 02:33 -> Creating a new user.
+01-13-23 02:33 -> roy@accessibility.com logged in successfully
+01-13-23 02:33 -> connected to mongoDB
+01-13-23 02:33 -> roy@accessibility.com logged in successfully
+01-13-23 02:35 -> connected to mongoDB
+01-13-23 02:35 -> roy@accessibility.com logged in successfully
+01-13-23 02:35 -> connected to mongoDB
+01-13-23 02:39 -> connected to mongoDB
+01-13-23 02:39 -> roy@accessibility.com logged in successfully
+01-13-23 02:39 -> connected to mongoDB
+01-13-23 02:39 -> roy@accessibility.com logged in successfully
+01-13-23 02:40 -> connected to mongoDB
+01-13-23 02:40 -> connected to mongoDB
+01-13-23 02:40 -> connected to mongoDB
+01-13-23 02:40 -> roy@accessibility.com logged in successfully
+01-13-23 02:40 -> Delete user roy@accessibility.com.
+01-13-23 02:40 -> connected to mongoDB
+01-13-23 02:40 -> Creating a new user.
+01-13-23 02:40 -> roy@accessibility.com logged in successfully
+01-13-23 02:40 -> Delete user roy@accessibility.com.
+01-13-23 02:41 -> connected to mongoDB
+01-13-23 02:41 -> Creating a new user.
+01-13-23 02:41 -> roy@accessibility.com logged in successfully
+01-13-23 02:41 -> Delete user roy@accessibility.com.
+01-13-23 02:41 -> connected to mongoDB
+01-13-23 02:41 -> Creating a new user.
+01-13-23 02:41 -> roy@accessibility.com logged in successfully
+01-13-23 02:42 -> connected to mongoDB
+01-13-23 02:50 -> connected to mongoDB
+01-13-23 02:51 -> connected to mongoDB
+01-13-23 02:53 -> connected to mongoDB
+01-13-23 02:53 -> roy@accessibility.com logged in successfully
+01-13-23 02:54 -> connected to mongoDB
+01-13-23 02:57 -> connected to mongoDB
+01-13-23 02:58 -> connected to mongoDB
+01-13-23 02:58 -> connected to mongoDB
+01-13-23 02:58 -> connected to mongoDB
+01-13-23 02:58 -> roy@accessibility.com logged in successfully
+01-13-23 02:58 -> Delete user roy@accessibility.com.
+01-13-23 02:59 -> connected to mongoDB
+01-13-23 02:59 -> connected to mongoDB
+01-13-23 02:59 -> Creating a new user.
+01-13-23 02:59 -> roy@accessibility.com logged in successfully
+01-13-23 02:59 -> connected to mongoDB
+01-13-23 02:59 -> roy@accessibility.com logged in successfully
+01-13-23 02:59 -> Getting all users.
+01-13-23 03:01 -> roy@accessibility.com logged in successfully
+01-13-23 03:01 -> connected to mongoDB
+01-13-23 03:06 -> roy@accessibility.com logged in successfully
+01-14-23 04:07 -> connected to mongoDB
+01-14-23 04:08 -> roy@accessibility.com logged in successfully
+01-14-23 04:08 -> roy@accessibility.com logged out.
+01-14-23 04:08 -> roy@accessibility.com logged in successfully
+01-14-23 04:09 -> connected to mongoDB
+01-14-23 04:10 -> connected to mongoDB
+01-14-23 04:13 -> connected to mongoDB
+01-14-23 04:13 -> roy@accessibility.com logged in successfully
+01-14-23 04:20 -> Getting all users.
+01-14-23 04:20 -> Getting all users.
+01-14-23 04:33 -> connected to mongoDB
+01-14-23 04:33 -> roy@accessibility.com failed to login
+01-14-23 04:35 -> Creating a new user.
+01-14-23 04:35 -> roy@accessibility.com failed to login
+01-14-23 04:35 -> roy@accessibility.com failed to login
+01-14-23 04:37 -> connected to mongoDB
+01-14-23 04:37 -> Creating a new user.
+01-14-23 04:38 -> roy@accessibility.com failed to login
+01-14-23 04:41 -> connected to mongoDB
+01-14-23 04:41 -> roy@accessibility.com failed to login
+01-14-23 04:42 -> Creating a new user.
+01-14-23 04:44 -> connected to mongoDB
+01-14-23 04:44 -> Creating a new user.
+01-14-23 04:53 -> connected to mongoDB
+01-14-23 04:54 -> Creating a new user.
+01-14-23 04:54 -> roy@accessibility.com logged in successfully
+01-14-23 04:54 -> roy@accessibility.com logged out.
+01-14-23 04:54 -> roy@accessibility.com failed to login
+01-14-23 04:54 -> roy@accessibility.com logged in successfully
+01-14-23 05:55 -> Getting all users.
+01-14-23 06:09 -> connected to mongoDB
+01-14-23 06:09 -> roy@accessibility.com failed to login
+01-14-23 06:10 -> roy@accessibility.com logged in successfully
+01-14-23 06:20 -> roy@accessibility.com logged out.
+01-15-23 02:03 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-15-23 02:04 -> connected to mongoDB
+01-15-23 02:04 -> roy@accessibility.com logged in successfully
+01-15-23 03:03 -> roy@accessibility.com logged out.
+01-15-23 03:05 -> roy@accessibility.com logged in successfully
+01-15-23 03:05 -> roy@accessibility.com logged in successfully
+01-15-23 03:05 -> roy@accessibility.com logged in successfully
+01-15-23 03:06 -> roy@accessibility.com logged in successfully
+01-15-23 03:06 -> roy@accessibility.com logged in successfully
+01-15-23 03:06 -> connected to mongoDB
+01-15-23 03:06 -> roy@accessibility.com logged in successfully
+01-15-23 03:06 -> roy@accessibility.com logged in successfully
+01-15-23 03:06 -> roy@accessibility.com logged in successfully
+01-15-23 03:06 -> roy@accessibility.com logged in successfully
+01-15-23 09:56 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-15-23 09:56 -> connected to mongoDB
+01-15-23 09:57 -> roy@accessibility.com logged in successfully
+01-15-23 09:57 -> roy@accessibility.com logged out.
+01-15-23 09:57 -> roy@accessibility.com logged in successfully
+01-15-23 09:57 -> roy@accessibility.com logged in successfully
+01-15-23 09:57 -> roy@accessibility.com logged in successfully
+01-15-23 09:57 -> roy@accessibility.com logged in successfully
+01-15-23 09:57 -> roy@accessibility.com logged in successfully
+01-15-23 09:58 -> connected to mongoDB
+01-15-23 09:58 -> roy@accessibility.com logged in successfully
+01-15-23 09:58 -> roy@accessibility.com logged out.
+01-15-23 09:58 -> roy@accessibility.com logged in successfully
+01-15-23 12:34 -> connected to mongoDB
+01-15-23 12:34 -> roy@accessibility.com logged in successfully
+01-15-23 12:35 -> connected to mongoDB
+01-15-23 12:36 -> roy@accessibility.com logged in successfully
+01-15-23 12:36 -> connected to mongoDB
+01-15-23 12:36 -> roy@accessibility.com logged in successfully
+01-15-23 12:36 -> connected to mongoDB
+01-15-23 12:37 -> connected to mongoDB
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> connected to mongoDB
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> connected to mongoDB
+01-15-23 12:37 -> connected to mongoDB
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:37 -> roy@accessibility.com logged in successfully.
+01-15-23 12:38 -> connected to mongoDB
+01-15-23 12:38 -> roy@accessibility.com logged in successfully.
+01-15-23 12:38 -> roy@accessibility.com logged in successfully.
+01-15-23 12:38 -> roy@accessibility.com logged in successfully.
+01-15-23 12:38 -> roy@accessibility.com logged in successfully.
+01-15-23 12:38 -> roy@accessibility.com logged in successfully.
+01-15-23 12:38 -> connected to mongoDB
+01-15-23 12:38 -> roy@accessibility.com logged in successfully.
+01-15-23 12:39 -> roy@accessibility.com logged out.
+01-15-23 12:40 -> connected to mongoDB
+01-15-23 12:41 -> roy@accessibility.com logged in successfully.
+01-15-23 12:41 -> connected to mongoDB
+01-15-23 12:42 -> roy@accessibility.com logged in successfully.
+01-15-23 12:43 -> roy@accessibility.com logged out.
+01-15-23 05:44 -> connected to mongoDB
+01-15-23 05:45 -> roy@accessibility.com logged in successfully.
+01-15-23 05:47 -> connected to mongoDB
+01-15-23 05:48 -> roy@accessibility.com logged in successfully.
+01-15-23 05:49 -> roy@accessibility.com logged out.
+01-15-23 05:50 -> roy@accessibility.com logged in successfully.
+01-16-23 12:04 -> connected to mongoDB
+01-16-23 12:04 -> roy@accessibility.com logged in successfully.
+01-16-23 02:48 -> roy@accessibility.com logged out.
+01-16-23 02:50 -> connected to mongoDB
+01-16-23 02:51 -> roy@accessibility.com logged in successfully.
+01-16-23 02:52 -> connected to mongoDB
+01-16-23 02:53 -> roy@accessibility.com logged in successfully.
+01-16-23 02:56 -> roy@accessibility.com logged out.
+01-16-23 02:56 -> roy@accessibility.com logged in successfully.
+01-16-23 02:56 -> Getting all users.
+01-16-23 03:00 -> roy@accessibility.com logged out.
+01-16-23 03:00 -> roy@accessibility.com logged in successfully.
+01-16-23 03:03 -> Getting all users.
+01-16-23 07:34 -> connected to mongoDB
+01-16-23 07:34 -> roy@accessibility.com logged in successfully.
+01-16-23 08:04 -> roy@accessibility.com logged out.
+01-16-23 08:04 -> roy@accessibility.com logged in successfully.
+01-16-23 09:17 -> connected to mongoDB
+01-16-23 09:19 -> roy@accessibility.com logged in successfully.
+01-16-23 09:26 -> connected to mongoDB
+01-16-23 09:27 -> roy@accessibility.com logged in successfully.
+01-16-23 11:37 -> roy@accessibility.com logged out.
+01-16-23 11:37 -> roy@accessibility.com logged in successfully.
+01-16-23 11:58 -> roy@accessibility.com logged out.
+01-16-23 11:59 -> roy@accessibility.com logged in successfully.
+01-17-23 10:34 -> connected to mongoDB
+01-17-23 10:34 -> roy@accessibility.com logged in successfully.
+01-17-23 10:50 -> connected to mongoDB
+01-17-23 10:50 -> roy@accessibility.com logged in successfully.
+01-17-23 11:03 -> connected to mongoDB
+01-17-23 11:04 -> roy@accessibility.com logged in successfully.
+01-17-23 11:14 -> roy@accessibility.com logged out.
+01-17-23 11:18 -> connected to mongoDB
+01-17-23 11:18 -> connected to mongoDB
+01-17-23 11:33 -> connected to mongoDB
+01-17-23 11:37 -> connected to mongoDB
+01-17-23 11:43 -> connected to mongoDB
+01-17-23 11:44 -> connected to mongoDB
+01-17-23 11:47 -> connection error: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.claapsg.mongodb.net
+01-17-23 11:50 -> connection error: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.claapsg.mongodb.net
+01-17-23 11:57 -> connection error: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.claapsg.mongodb.net
+01-17-23 11:58 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-17-23 12:06 -> connected to mongoDB
+01-17-23 12:08 -> connected to mongoDB
+01-17-23 12:08 -> connected to mongoDB
+01-17-23 12:10 -> connected to mongoDB
+01-17-23 12:10 -> connected to mongoDB
+01-17-23 12:11 -> connected to mongoDB
+01-17-23 12:11 -> connected to mongoDB
+01-17-23 12:14 -> connected to mongoDB
+01-17-23 12:15 -> connected to mongoDB
+01-17-23 12:16 -> connected to mongoDB
+01-17-23 12:17 -> connected to mongoDB
+01-17-23 12:18 -> Creating a new user.
+01-17-23 12:19 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 12:23 -> connected to mongoDB
+01-17-23 12:23 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 12:23 -> connected to mongoDB
+01-17-23 12:26 -> connected to mongoDB
+01-17-23 12:26 -> connected to mongoDB
+01-17-23 12:26 -> connected to mongoDB
+01-17-23 12:27 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 12:27 -> connected to mongoDB
+01-17-23 12:27 -> roy@accessibility.com logged in successfully.
+01-17-23 12:28 -> connected to mongoDB
+01-17-23 12:29 -> connected to mongoDB
+01-17-23 12:29 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 12:38 -> connected to mongoDB
+01-17-23 12:38 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 12:41 -> connected to mongoDB
+01-17-23 12:41 -> roy@accessibility.com logged in successfully.
+01-17-23 02:32 -> connected to mongoDB
+01-17-23 02:35 -> connected to mongoDB
+01-17-23 02:35 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 04:32 -> connected to mongoDB
+01-17-23 04:38 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 04:38 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 04:39 -> ErenJaeger@aot.com logged out.
+01-17-23 04:39 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 04:40 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 04:42 -> connected to mongoDB
+01-17-23 04:42 -> roy@accessibility.com logged in successfully.
+01-17-23 04:43 -> Edit user 63c2c2087a529cba41846e6f.
+01-17-23 04:49 -> connected to mongoDB
+01-17-23 04:49 -> roy@accessibility.com logged in successfully.
+01-17-23 04:49 -> Edit user 63c2c2087a529cba41846e6f.
+01-17-23 04:50 -> connected to mongoDB
+01-17-23 04:50 -> roy@accessibility.com logged in successfully.
+01-17-23 04:51 -> roy@accessibility.com logged out.
+01-17-23 04:51 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 04:52 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 04:52 -> connected to mongoDB
+01-17-23 04:52 -> roy@accessibility.com logged in successfully.
+01-17-23 04:53 -> roy@accessibility.com logged out.
+01-17-23 04:53 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 04:53 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 04:53 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 04:53 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 04:54 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 04:54 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 05:04 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 05:05 -> Edit user 63c6760e72c1329619f562fd.
+01-17-23 05:07 -> ErenJaeger@aot.com logged out.
+01-17-23 05:21 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 07:16 -> connected to mongoDB
+01-17-23 07:17 -> roy@accessibility.com logged in successfully.
+01-17-23 07:18 -> connected to mongoDB
+01-17-23 07:18 -> roy@accessibility.com logged in successfully.
+01-17-23 07:19 -> connected to mongoDB
+01-17-23 07:19 -> roy@accessibility.com logged in successfully.
+01-17-23 07:31 -> connected to mongoDB
+01-17-23 07:31 -> ErenJaeger@aot.com logged in successfully.
+01-17-23 09:17 -> ErenJaeger@aot.com logged out.
+01-17-23 09:18 -> roy@accessibility.com logged in successfully.
+01-17-23 09:41 -> roy@accessibility.com logged out.
+01-17-23 09:44 -> Creating a new user.
+01-17-23 09:44 -> koren@accessibility.com logged in successfully.
+01-17-23 09:45 -> Edit user 63c6fa8405725745b8e9237a.
+01-17-23 09:59 -> roy@accessibility.com logged in successfully.
+01-17-23 10:17 -> Getting all users.
+01-18-23 10:25 -> Edit user 63c6fa8405725745b8e9237a.
+01-18-23 10:27 -> Edit user 63c6fa8405725745b8e9237a.
+01-18-23 12:00 -> connected to mongoDB
+01-18-23 12:01 -> connected to mongoDB
+01-18-23 12:01 -> roy@accessibility.com logged in successfully.
+01-18-23 12:01 -> Edit user 63c2c2087a529cba41846e6f.
+01-18-23 12:01 -> Edit user 63c2c2087a529cba41846e6f.
+01-18-23 02:41 -> 63c2c2087a529cba41846e6f logged out.
+01-19-23 09:59 -> connected to mongoDB
+01-19-23 09:59 -> roy@accessibility.com logged in successfully.
+01-19-23 10:47 -> 63c2c2087a529cba41846e6f logged out.
+01-19-23 10:47 -> ErenJaeger@aot.com logged in successfully.
+01-19-23 02:45 -> Getting all users.
+01-19-23 03:13 -> connection error: MongoNetworkTimeoutError: connection timed out
+01-19-23 03:15 -> connected to mongoDB
+01-19-23 03:15 -> ErenJaeger@aot.com logged in successfully.
+01-19-23 03:16 -> Edit user 63c6760e72c1329619f562fd.
+01-19-23 03:17 -> connected to mongoDB
+01-19-23 03:18 -> ErenJaeger@aot.com logged in successfully.
+01-19-23 03:20 -> connected to mongoDB
+01-19-23 03:20 -> roy@accessibility.com logged in successfully.
+01-19-23 08:28 -> connected to mongoDB
+01-19-23 08:28 -> roy@accessibility.com logged in successfully.
+01-20-23 11:18 -> 63c2c2087a529cba41846e6f logged out.
+01-20-23 11:18 -> koren@accessibility.com logged in successfully.
+01-20-23 11:18 -> 63c6fa8405725745b8e9237a logged out.
+01-20-23 11:18 -> ErenJaeger@aot.com logged in successfully.
+01-20-23 11:25 -> Edit user 63c6760e72c1329619f562fd.
+01-20-23 11:28 -> Edit user 63c6760e72c1329619f562fd.
+01-20-23 11:31 -> connected to mongoDB
+01-20-23 11:31 -> ErenJaeger@aot.com logged in successfully.
+01-20-23 06:48 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-20-23 06:49 -> connected to mongoDB
+01-20-23 06:49 -> ErenJaeger@aot.com logged in successfully.
+01-20-23 06:59 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-20-23 07:00 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-20-23 09:07 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-20-23 11:24 -> connected to mongoDB
+01-20-23 11:25 -> connected to mongoDB
+01-20-23 11:26 -> Creating a new user.
+01-20-23 11:27 -> connected to mongoDB
+01-20-23 11:27 -> Creating a new user.
+01-20-23 11:37 -> connected to mongoDB
+01-20-23 11:37 -> Creating a new user.
+01-20-23 11:37 -> [object Object]
+01-20-23 11:37 -> Creating a new user.
+01-20-23 11:38 -> demo4@gmail.com logged in successfully.
+01-20-23 11:42 -> 63cb09a82eff688b1ffbe614 logged out.
+01-20-23 11:42 -> roy@accessibility.com logged in successfully.
+01-20-23 11:43 -> Edit user 63c2c2087a529cba41846e6f.
+01-20-23 11:46 -> connected to mongoDB
+01-20-23 11:46 -> roy@accessibility.com logged in successfully.
+01-20-23 11:46 -> 63c2c2087a529cba41846e6f logged out.
+01-20-23 11:46 -> demo4@gmail.com logged in successfully.
+01-20-23 11:46 -> Edit user 63cb09a82eff688b1ffbe614.
+01-20-23 11:51 -> connected to mongoDB
+01-20-23 11:52 -> demo4@gmail.com logged in successfully.
+01-20-23 11:52 -> Edit user 63cb09a82eff688b1ffbe614.
+01-20-23 11:53 -> Edit user 63cb09a82eff688b1ffbe614.
+01-20-23 11:53 -> Edit user 63cb09a82eff688b1ffbe614.
+01-21-23 11:36 -> Edit user 63cb09a82eff688b1ffbe614.
+01-21-23 01:27 -> connected to mongoDB
+01-21-23 01:27 -> ErenJaeger@aot.com logged in successfully.
+01-22-23 11:35 -> connected to mongoDB
+01-22-23 11:35 -> roy@accessibility.com logged in successfully.
+01-24-23 11:45 -> connected to mongoDB
+01-24-23 11:46 -> ErenJaeger@aot.com logged in successfully.
+01-24-23 11:52 -> 63c6760e72c1329619f562fd logged out.
+01-24-23 11:52 -> ErenJaeger@aot.com logged in successfully.
+01-27-23 11:06 -> connected to mongoDB
+01-27-23 11:07 -> roy@accessibility.com logged in successfully.
+01-27-23 11:08 -> 63c2c2087a529cba41846e6f logged out.
+01-27-23 11:39 -> connected to mongoDB
+01-27-23 11:39 -> roy@accessibility.com logged in successfully.
+01-28-23 12:02 -> connected to mongoDB
+01-28-23 12:03 -> roy@accessibility.com logged in successfully.
+01-28-23 01:58 -> connected to mongoDB
+01-28-23 02:01 -> connected to mongoDB
+01-28-23 02:01 -> roy@accessibility.com logged in successfully.
+01-28-23 02:16 -> connected to mongoDB
+01-28-23 02:21 -> connected to mongoDB
+01-28-23 02:23 -> roy@accessibility.com logged in successfully.
+01-28-23 02:25 -> connected to mongoDB
+01-28-23 02:26 -> connected to mongoDB
+01-28-23 02:26 -> roy@accessibility.com logged in successfully.
+01-28-23 02:27 -> connected to mongoDB
+01-28-23 02:32 -> connected to mongoDB
+01-28-23 02:33 -> roy@accessibility.com logged in successfully.
+01-28-23 02:33 -> connected to mongoDB
+01-28-23 02:34 -> connected to mongoDB
+01-28-23 02:34 -> roy@accessibility.com logged in successfully.
+01-28-23 02:35 -> connected to mongoDB
+01-28-23 02:35 -> connected to mongoDB
+01-28-23 02:35 -> roy@accessibility.com logged in successfully.
+01-28-23 02:36 -> connected to mongoDB
+01-28-23 02:36 -> roy@accessibility.com logged in successfully.
+01-28-23 02:37 -> connected to mongoDB
+01-28-23 02:38 -> connected to mongoDB
+01-28-23 02:38 -> roy@accessibility.com logged in successfully.
+01-28-23 02:38 -> roy@accessibility.com logged in successfully.
+01-28-23 02:39 -> User63c2c2087a529cba41846e6f added a report.
+01-28-23 02:41 -> User63c2c2087a529cba41846e6f added a report.
+01-28-23 03:15 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-28-23 03:17 -> connected to mongoDB
+01-28-23 03:17 -> roy@accessibility.com logged in successfully.
+01-28-23 03:18 -> connected to mongoDB
+01-28-23 03:18 -> roy@accessibility.com logged in successfully.
+01-28-23 03:19 -> connected to mongoDB
+01-28-23 03:19 -> roy@accessibility.com logged in successfully.
+01-28-23 03:20 -> User63c2c2087a529cba41846e6f added a report.
+01-28-23 03:22 -> connected to mongoDB
+01-28-23 03:22 -> roy@accessibility.com logged in successfully.
+01-28-23 03:43 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-28-23 03:45 -> connected to mongoDB
+01-28-23 03:45 -> demo4@gmail.com logged in successfully.
+01-28-23 03:46 -> User63cb09a82eff688b1ffbe614 added a report.
+01-28-23 04:07 -> connected to mongoDB
+01-28-23 04:07 -> roy@accessibility.com logged in successfully.
+01-28-23 04:09 -> connected to mongoDB
+01-28-23 04:10 -> roy@accessibility.com logged in successfully.
+01-28-23 04:12 -> connected to mongoDB
+01-28-23 04:12 -> roy@accessibility.com logged in successfully.
+01-28-23 04:15 -> connected to mongoDB
+01-28-23 04:16 -> roy@accessibility.com logged in successfully.
+01-28-23 04:19 -> connected to mongoDB
+01-28-23 04:20 -> roy@accessibility.com logged in successfully.
+01-28-23 04:22 -> connected to mongoDB
+01-28-23 04:22 -> roy@accessibility.com logged in successfully.
+01-28-23 04:23 -> connected to mongoDB
+01-28-23 04:24 -> roy@accessibility.com logged in successfully.
+01-28-23 04:24 -> connected to mongoDB
+01-28-23 04:24 -> roy@accessibility.com logged in successfully.
+01-28-23 04:27 -> connected to mongoDB
+01-28-23 04:27 -> roy@accessibility.com logged in successfully.
+01-28-23 04:28 -> connected to mongoDB
+01-28-23 04:28 -> roy@accessibility.com logged in successfully.
+01-28-23 04:31 -> connected to mongoDB
+01-28-23 04:31 -> roy@accessibility.com logged in successfully.
+01-28-23 04:33 -> connected to mongoDB
+01-28-23 04:34 -> roy@accessibility.com logged in successfully.
+01-28-23 04:34 -> connected to mongoDB
+01-28-23 04:34 -> roy@accessibility.com logged in successfully.
+01-28-23 04:39 -> connected to mongoDB
+01-28-23 04:39 -> roy@accessibility.com logged in successfully.
+01-28-23 04:41 -> connected to mongoDB
+01-28-23 04:41 -> roy@accessibility.com logged in successfully.
+01-28-23 05:20 -> 
+01-28-23 05:46 -> connected to mongoDB
+01-28-23 05:46 -> roy@accessibility.com logged in successfully.
+01-28-23 05:49 -> connected to mongoDB
+01-28-23 05:50 -> roy@accessibility.com logged in successfully.
+01-28-23 05:51 -> connected to mongoDB
+01-28-23 05:51 -> roy@accessibility.com logged in successfully.
+01-28-23 05:53 -> connected to mongoDB
+01-28-23 05:53 -> roy@accessibility.com logged in successfully.
+01-28-23 05:54 -> connected to mongoDB
+01-28-23 05:54 -> roy@accessibility.com logged in successfully.
+01-28-23 05:55 -> connected to mongoDB
+01-28-23 05:55 -> roy@accessibility.com logged in successfully.
+01-28-23 05:58 -> connection error: Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.claapsg.mongodb.net
+01-28-23 06:00 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-28-23 06:00 -> connected to mongoDB
+01-28-23 06:01 -> roy@accessibility.com logged in successfully.
+01-28-23 06:13 -> connected to mongoDB
+01-28-23 06:13 -> roy@accessibility.com logged in successfully.
+01-28-23 06:14 -> connected to mongoDB
+01-28-23 06:15 -> roy@accessibility.com logged in successfully.
+01-28-23 07:19 -> connected to mongoDB
+01-28-23 07:20 -> roy@accessibility.com logged in successfully.
+01-28-23 07:21 -> connected to mongoDB
+01-28-23 07:21 -> roy@accessibility.com logged in successfully.
+01-28-23 07:23 -> connected to mongoDB
+01-28-23 07:23 -> roy@accessibility.com logged in successfully.
+01-28-23 07:27 -> connected to mongoDB
+01-28-23 07:27 -> roy@accessibility.com logged in successfully.
+01-28-23 07:31 -> connected to mongoDB
+01-28-23 07:31 -> roy@accessibility.com logged in successfully.
+01-28-23 07:33 -> connected to mongoDB
+01-28-23 07:35 -> connected to mongoDB
+01-28-23 09:38 -> connected to mongoDB
+01-28-23 09:38 -> roy@accessibility.com logged in successfully.
+01-28-23 09:41 -> connected to mongoDB
+01-28-23 09:41 -> connected to mongoDB
+01-28-23 09:41 -> roy@accessibility.com logged in successfully.
+01-28-23 09:42 -> connected to mongoDB
+01-28-23 09:45 -> connected to mongoDB
+01-28-23 09:45 -> roy@accessibility.com logged in successfully.
+01-28-23 09:46 -> connected to mongoDB
+01-28-23 09:46 -> connected to mongoDB
+01-28-23 09:47 -> roy@accessibility.com logged in successfully.
+01-29-23 12:42 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-29-23 12:42 -> connected to mongoDB
+01-29-23 12:43 -> roy@accessibility.com logged in successfully.
+01-29-23 12:44 -> connected to mongoDB
+01-29-23 12:44 -> roy@accessibility.com logged in successfully.
+01-29-23 12:49 -> connected to mongoDB
+01-29-23 12:49 -> roy@accessibility.com logged in successfully.
+01-29-23 01:23 -> connected to mongoDB
+01-29-23 01:23 -> roy@accessibility.com logged in successfully.
+01-29-23 01:27 -> connected to mongoDB
+01-29-23 01:27 -> roy@accessibility.com logged in successfully.
+01-29-23 01:29 -> connected to mongoDB
+01-29-23 01:29 -> roy@accessibility.com logged in successfully.
+01-29-23 01:30 -> connected to mongoDB
+01-29-23 01:30 -> roy@accessibility.com logged in successfully.
+01-29-23 01:32 -> connected to mongoDB
+01-29-23 01:32 -> roy@accessibility.com logged in successfully.
+01-29-23 01:36 -> connected to mongoDB
+01-29-23 01:36 -> roy@accessibility.com logged in successfully.
+01-29-23 01:39 -> 
+01-29-23 01:42 -> 
+01-29-23 09:59 -> connected to mongoDB
+01-29-23 09:59 -> roy@accessibility.com logged in successfully.
+01-29-23 12:30 -> 63c2c2087a529cba41846e6f logged out.
+01-29-23 12:30 -> roy@accessibility.com logged in successfully.
+01-29-23 12:36 -> User63c2c2087a529cba41846e6f added a report.
+01-30-23 01:14 -> connected to mongoDB
+01-30-23 01:16 -> roy@accessibility.com logged in successfully.
+01-30-23 01:18 -> connected to mongoDB
+01-30-23 01:18 -> ErenJaeger@aot.com logged in successfully.
+01-30-23 01:34 -> 63c6760e72c1329619f562fd logged out.
+01-30-23 01:35 -> User roy@accessibility.com is not found!.
+01-30-23 01:35 -> koren@accessibility.com logged in successfully.
+01-30-23 01:41 -> User63c6fa8405725745b8e9237a added a report.
+01-30-23 01:56 -> connected to mongoDB
+01-30-23 01:56 -> User roy@accessibility.com is not found!.
+01-30-23 01:56 -> koren@accessibility.com logged in successfully.
+01-30-23 01:57 -> connected to mongoDB
+01-30-23 01:57 -> koren@accessibility.com logged in successfully.
+01-30-23 02:13 -> connected to mongoDB
+01-30-23 02:13 -> User roy@accessibility.com is not found!.
+01-30-23 02:13 -> koren@accessibility.com logged in successfully.
+01-30-23 03:05 -> connected to mongoDB
+01-30-23 03:05 -> connected to mongoDB
+01-30-23 03:08 -> connected to mongoDB
+01-30-23 03:09 -> connected to mongoDB
+01-30-23 03:13 -> connected to mongoDB
+01-30-23 03:16 -> connected to mongoDB
+01-30-23 03:17 -> koren@accessibility.com logged in successfully.
+01-30-23 03:18 -> connected to mongoDB
+01-30-23 03:18 -> User roy@accessibility.com is not found!.
+01-30-23 03:18 -> koren@accessibility.com logged in successfully.
+01-30-23 03:20 -> connected to mongoDB
+01-30-23 03:20 -> koren@accessibility.com logged in successfully.
+01-30-23 03:21 -> connected to mongoDB
+01-30-23 03:21 -> connected to mongoDB
+01-30-23 03:22 -> connected to mongoDB
+01-30-23 03:23 -> connected to mongoDB
+01-30-23 03:24 -> connected to mongoDB
+01-30-23 03:25 -> connected to mongoDB
+01-30-23 08:05 -> connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+01-30-23 08:05 -> connected to mongoDB
+01-30-23 08:07 -> connected to mongoDB
+01-30-23 08:07 -> connected to mongoDB
+01-30-23 08:08 -> ErenJaeger@aot.com logged in successfully.
+01-30-23 10:41 -> connected to mongoDB
+01-30-23 10:41 -> User roy@accessibility.com is not found!.
+01-30-23 10:41 -> koren@accessibility.com logged in successfully.
+01-30-23 10:57 -> connected to mongoDB
+01-30-23 11:21 -> connected to mongoDB
+01-30-23 11:22 -> koren@accessibility.com logged in successfully.
+01-30-23 11:25 -> 63c6fa8405725745b8e9237a logged out.
+01-30-23 11:26 -> koren@accessibility.com logged in successfully.
+01-30-23 11:28 -> User63c6fa8405725745b8e9237a added a report.
+01-30-23 11:29 -> 63c6fa8405725745b8e9237a logged out.
+01-30-23 11:29 -> ErenJaeger@aot.com logged in successfully.
+01-30-23 11:40 -> User63c6760e72c1329619f562fd added a report.
+01-30-23 11:41 -> 63c6760e72c1329619f562fd logged out.
+01-30-23 11:44 -> [object Object]
+01-30-23 11:44 -> Creating a new user.
+01-30-23 11:44 -> roy@accessibility.com logged in successfully.
+01-30-23 11:49 -> connected to mongoDB
+01-30-23 11:51 -> connected to mongoDB
+01-30-23 11:51 -> roy@accessibility.com logged in successfully.
+01-30-23 11:53 -> 63d79169f3aa9ca358aa2891 logged out.
