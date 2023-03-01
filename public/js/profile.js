@@ -48,6 +48,7 @@ initPage();
 const origin = window.origin;
 const userID = window.location.pathname.split('/')[2];
 
+
 const htmlMain = document.getElementById("main");
 
 const edit = document.getElementById("edit");
@@ -63,6 +64,8 @@ const fileInput = document.getElementById("hide-profile-image");
 const del = document.getElementById("delete-popup");
 const error = document.getElementById("error-popup");
 const errorMsg = document.getElementById("error-msg");
+
+
 
 function FileInput () {
     const file = form[6].files[0];
@@ -138,6 +141,17 @@ function openDelete() {
 function closeDelete() {
     del.classList.remove("open-popup");
     htmlMain.classList.remove("active-popup");
+}
+
+async function Delete() {
+    console.log(userID);
+    try {
+        const response = await fetch(`${origin}/users/${userID}`, {method: "DELETE"});
+        if (response.status === 200)
+            window.location.reload();
+    } catch (err) {
+        console.log(err);
+    }
 }
 
 
