@@ -62,6 +62,7 @@ Note that in this message, we've indicated that the alert was generated automati
 
 }
 
+
 exports.reportsController = {
 
 
@@ -97,11 +98,11 @@ exports.reportsController = {
         const { id } = req.params;
         const report = checkIfExists(req.params.id);
         if(report === false) {
-            logger.log("");
-            res.status(404).send("");
+            logger.log("Error: Report by " + id + " ID was not found");
+            res.status(404).send("Error: Report by " + id + " ID was not found");
         }
         else {
-            reportsRepository.deleteReport(id);
+            reportsRepository.deleteReport(report);
         }
     },
 

@@ -15,6 +15,18 @@ const deleteImage = async function (publicId) {
     }
 }
 
+const deleteImgs = async (imgIDs) => {
+
+    for (const imgID of imgIDs) {
+        try {
+            await cloudinary.v2.uploader.destroy(imgID);
+        } catch (err) {
+            logger.log(err);
+        }
+    }
+
+}
+
 module.exports = class UsersRepository {
     constructor() {
         this.storage = new Storage("reportModel");
@@ -79,12 +91,21 @@ module.exports = class UsersRepository {
         return this.storage.updateItem({ _id: id}, report);
     }
 
-    deleteReports(userID) {
-        return this.storage.deleteItems({ postedBy: userID });
+    async deleteReports(userID) {
+        const reports = await this.findReportsByUser(userID);
+        const imgIDs = [];
+        reports.forEach(report => {
+            const reportImgIDs = report.images.map(image => image.publicId);
+            imgIDs.push(...reportImgIDs);
+        });
+        await deleteImgs(imgIDs);
+        return this.storage.deleteItems({postedBy: userID});
     }
 
-    deleteReport(id) {
-        return this.storage.deleteItems({ _id: id});
+    async deleteReport(report) {
+        const imgIDs = report.images.map(image => image.publicId);
+        await deleteImgs(imgIDs);
+        return this.storage.deleteItems({_id: report._id});
     }
 
     filter(criterias) {

@@ -25,7 +25,7 @@
                     <i class="fa-regular fa-house"></i>
                     <span>Home</span>
                 </a>
-                <a href="/reports/<%= user._id %>" class="list-group-item list-group-item-action py-2 ripple">
+                <a href="/myReports" class="list-group-item list-group-item-action py-2 ripple">
                     <i class="fa-regular fa-message-exclamation"></i>
                     <span>My reports</span>
                 </a>
@@ -133,7 +133,12 @@
                         <p><%= data.report.description %></p>
                     </div>
                 </div>
-                <div class="col p-0 f-row m-10-px">
+<!--                <div class="col p-0 f-row m-10-px">-->
+<!--                    <div class="card f-row m-0 p-1" >-->
+<!--                        <div id="map" hidden><%= data.report.location.coordinates %></div>-->
+<!--                    </div>-->
+<!--                </div>-->
+                <div class="col card p-2 f-row m-10-px">
                     <div id="map" hidden><%= data.report.location.coordinates %></div>
                 </div>
             </div>

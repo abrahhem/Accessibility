@@ -5,7 +5,7 @@ const {cloudinary} = require("../data/cloudinary");
 const minAge = 13;
 
 const emailRegex = new RegExp(/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/);
-const dateRegex  = new RegExp(/^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$/);
+const dateRegex  = new RegExp(/^[0-9]{1,2}(\/|\.)[0-9]{1,2}(\/|\.)[0-9]{4}$/);
 
 const calculateAge = (DOB) => {
     const dob = new Date(DOB);
