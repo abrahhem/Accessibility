@@ -57,8 +57,6 @@ async function all(role) {
 }
 
 
-
-
 exports.pagesController = {
 
     getIndex(req, res) {

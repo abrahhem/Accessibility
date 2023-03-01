@@ -1,3 +1,4 @@
+const nodemailer = require("nodemailer");
 const Logger = require("../logger/Logger");
 const ReportsRepository = require("../repositories/reportsRepository");
 const logger = new Logger();
@@ -11,6 +12,54 @@ const checkIfExists = async (id) => {
 const checkIfExistsByUser = async (userID) => {
     const report = await reportsRepository.findReportsByUser(userID);
     return report.length === 1 ? report[0] : false;
+}
+
+const transporter = nodemailer.createTransport({
+    service: 'outlook',
+    auth: {
+        user: process.env.AUTOEMAIL,
+        pass: process.env.EMAILPASS
+    }
+});
+
+
+
+const sendEmail = (report) => {
+
+    const mailOptions = {
+        from: process.env.AUTOEMAIL,
+        to: 'accessibilitydb42@gmail.com',
+        subject: 'New Report with High Severity Rating',
+        text: `Dear System Administrator,
+        
+I'm writing to notify you of a new report that was received with a very high severity rating. This alert was generated automatically by our system, which detected the severity rating of the report.
+
+The details of the report are as follows:
+
+Report ID: ${report._id}
+Severity Rating: ${report.severityScale}
+Description: ${report.description}
+
+We recommend that you take immediate action to address this issue. Please review the full report and take appropriate steps to remediate the vulnerability as soon as possible.
+
+If you have any questions or need further information, please don't hesitate to contact us.
+
+Best regards,
+
+[Your Company Name] Security Team
+
+Note that in this message, we've indicated that the alert was generated automatically by our system. This helps the system administrator understand the context of the message and the urgency of the situation. We've also provided all the necessary details of the report, so the administrator can quickly assess the severity of the vulnerability and take appropriate action.`
+
+    };
+
+    transporter.sendMail(mailOptions, (error, info) => {
+        if (error) {
+            logger.log(error);
+        } else {
+            logger.log("Email sent: " + info.response);
+        }
+    });
+
 }
 
 exports.reportsController = {
@@ -76,10 +125,10 @@ exports.reportsController = {
         try {
             const report = await checkIfExists(id);
             const result = await reportsRepository.rateReport(rank, report);
-            if (result !== true)
-                res.status(200).send("send email to the admin");
-            else
-                res.status(200).send("Succeeded.");
+            if (result !== true) {
+                sendEmail(result)
+            }
+            res.status(200).send("Succeeded.");
         } catch (e) {
             res.status(500).send("Error: failed to rate the report. " + e.message);
         }

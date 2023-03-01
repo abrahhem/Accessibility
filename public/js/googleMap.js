@@ -12,7 +12,7 @@ window.onload = () => {
 function initMap(marks) {
     const map = new google.maps.Map(document.getElementById("map"), {
         center: { lat: 32.089598, lng: 34.802507 },
-        zoom: 8,
+        zoom: 15,
     });
 
     marks.forEach(mark => {

@@ -18,7 +18,7 @@
 html,
 body {
     height: 100vh;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 .cont {
