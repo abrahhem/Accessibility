@@ -4,6 +4,9 @@ const Logger  = require("../logger/Logger");
 const { Image } = require("../models/includesModels");
 const {cloudinary} = require("../data/cloudinary");
 
+const ReportsRepository = require("../repositories/reportsRepository");
+const reportsRepository = new ReportsRepository();
+
 const logger = new Logger();
 
 const deleteImage = async function (publicId) {
@@ -81,6 +84,7 @@ module.exports = class UsersRepository {
     async deleteUser(id, image) {
         if (image.publicId !== "publicId")
             await deleteImage(image.publicId);
+        await reportsRepository.deleteReports(id);
         return this.storage.deleteItem({_id: id});
     }
 
