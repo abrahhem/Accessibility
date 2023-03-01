@@ -61,7 +61,7 @@ exports.pagesController = {
 
     getIndex(req, res) {
         if(req.session.hasOwnProperty("userInfo"))
-            res.redirect("reports");
+            res.redirect("home");
         else
             res.render("index");
     },
