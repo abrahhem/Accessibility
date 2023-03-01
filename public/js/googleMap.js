@@ -3,6 +3,7 @@ window.onload = () => {
     fetch( origin + "/reports/locations")
         .then(async response => {
             const res = await response.json();
+            console.log(res);
             initMap(res);
         });
 }
@@ -16,10 +17,14 @@ function initMap(marks) {
 
     marks.forEach(mark => {
         const Latlng = new google.maps.LatLng(mark.coordinates[0], mark.coordinates[1]);
-        console.log(Latlng);
         const marker = new google.maps.Marker({
             position: Latlng,
-            title: mark._id
+            title: mark._id,
+            url: `/report/${mark._id}`
+        });
+        google.maps.event.addListener(marker, 'click', function() {
+            window.location.href = marker.url;
+            window.open(marker.url, '_blank');
         });
         marker.setMap(map);
     });

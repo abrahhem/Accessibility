@@ -9,9 +9,10 @@ pageRouter.get("/home", pagesController.getHome);
 pageRouter.get("/reportForm", pagesController.getReportForm);
 pageRouter.get("/map", pagesController.getMap);
 pageRouter.get("/usersList", pagesController.getUsers);
+pageRouter.get("/myReports", pagesController.getMyReports);
+pageRouter.get("/userReports/:id", pagesController.getUserReports);
 pageRouter.get("/profile/:id", pagesController.getProfile);
 pageRouter.get("/report/:id", pagesController.getReport);
-pageRouter.get("/reports", pagesController.getReport);
 pageRouter.get("/*", pagesController.getError);
 
 

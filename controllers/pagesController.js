@@ -34,7 +34,7 @@ async function userReports(userID) {
     const user = await usersRepository.findUser(userID, false);
     if (user.length !== 1)
         return false;
-    const reports = await reportsRepository.findReportsByUser(userID);
+    const reports = await reportsRepository.findAndSortByUser(userID, {createdAt: -1});
 
     return {
         user: user[0],
@@ -46,16 +46,14 @@ async function userReports(userID) {
 async function all(role) {
     const users = await usersRepository.find();
     const arg =  role === "admin" ? {severityScale: -1, createdAt: -1} : {createdAt: -1};
-    const reports = await reportsRepository.findAndSort(arg);
-    const data = [];
-    reports.forEach(report => {
-        const user = users.filter(user => user._id.equals(report.postedBy));
-        data.push( {
-            user: user[0],
+    const reports = await reportsRepository.findAndSortAll(arg);
+    return reports.map(report => {
+        const user = users.find(user => user._id.equals(report.postedBy));
+        return {
+            user: user,
             report: report
-        });
+        };
     });
-    return data;
 }
 
 
@@ -65,7 +63,7 @@ exports.pagesController = {
 
     getIndex(req, res) {
         if(req.session.hasOwnProperty("userInfo"))
-            res.redirect("home");
+            res.redirect("reports");
         else
             res.render("index");
     },
@@ -75,7 +73,7 @@ exports.pagesController = {
             res.redirect("/");
         else {
             const data = await all(req.session.userInfo.role);
-            res.render("home", {user: req.session.userInfo, data: data});
+            res.render("reports", {user: req.session.userInfo, data: data});
         }
     },
 
@@ -136,6 +134,41 @@ exports.pagesController = {
                     res.render("404");
                 else
                     res.render("report", {user: req.session.userInfo, data: report});
+            } catch (e) {
+                res.render("404");
+            }
+        }
+    },
+
+
+    async getMyReports(req, res) {
+        if (!req.session.hasOwnProperty("userInfo"))
+            res.redirect("/");
+        else {
+            const {_id} = req.session.userInfo;
+            try {
+                const reports = await userReports(_id);
+                if (reports === false)
+                    res.render("404");
+                else
+                    res.render("userReports", {user: req.session.userInfo, data: reports});
+            } catch (e) {
+                res.render("404");
+            }
+        }
+    },
+
+    async getUserReports(req, res) {
+        if (!req.session.hasOwnProperty("userInfo"))
+            res.redirect("/");
+        else {
+            const { id } = req.params;
+            try {
+                const reports = await userReports(id);
+                if (reports === false)
+                    res.render("404");
+                else
+                    res.render("userReports", {user: req.session.userInfo, data: reports});
             } catch (e) {
                 res.render("404");
             }

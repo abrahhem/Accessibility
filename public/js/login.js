@@ -16,11 +16,11 @@ window.onload = () => {
         const user = {
             firstName:  SUInputs[0].value,
             lastName:   SUInputs[1].value,
-            birthDate:  new Date(SUInputs[2].value).toLocaleDateString(),
+            birthDate:  new Date(SUInputs[2].value).toLocaleDateString('en-US', { month: '2-digit', day: '2-digit', year: 'numeric' }),
             gender:     SUInputs[3].value,
             email:      SUInputs[4].value,
             password:   SUInputs[5].value
-        }
+        };
         if(preview.uploaded)
             user["imgFile"] = preview.uploaded;
         console.log(user);

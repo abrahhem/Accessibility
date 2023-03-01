@@ -72,7 +72,6 @@ exports.usersController = {
             } catch (e) {
                 res.status(500).send("Error: failed to edit user. " + e.message);
             }
-
         }
     },
 

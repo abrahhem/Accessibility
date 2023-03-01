@@ -11,12 +11,16 @@ module.exports = class Storage {
         return this.Model.find({});
     }
 
-    findAndSort(arg) {
+    findAndSortAll(arg) {
         return this.Model.find({}).sort(arg);
     }
 
     findItem(id) {
         return this.Model.find(id);
+    }
+
+    findAndSortItems(id, arg) {
+        return this.Model.find(id).sort(arg);
     }
 
     addItem(data) {

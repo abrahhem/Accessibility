@@ -24,9 +24,14 @@ module.exports = class UsersRepository {
         return this.storage.find();
     }
 
-    findAndSort(arg) {
-        return this.storage.findAndSort(arg);
+    findAndSortAll(arg) {
+        return this.storage.findAndSortAll(arg);
     }
+
+    findAndSortByUser(userID,arg) {
+        return this.storage.findAndSortItems({postedBy: userID}, arg);
+    }
+
     findReport(id) {
         return this.storage.findItem({_id: id});
     }

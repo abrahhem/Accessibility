@@ -34,52 +34,48 @@ module.exports = class UsersRepository {
         return pass ? this.storage.findItem({_id: id}).select("+password") : this.storage.findItem({_id: id});
     }
 
-    async updateImage(id, img, publicID) {
-        let image;
-        if ( img === "delete") {
-            const res = await deleteImage(publicID);
-            image = new Image();
-        }
-        else if (img !== undefined){
-            const res = await deleteImage(publicID);
-            const uploadedResponse = await cloudinary.v2.uploader.upload(img, {
-                upload_preset: "profile-preset"
-            });
-            image = new Image({
+    async addUser(user) {
+        const imgFile  = user?.imgFile;
+        if(imgFile) {
+            delete user.imgFile;
+            const uploadedResponse = await cloudinary.v2.uploader.upload(imgFile, {upload_preset: "profile-preset"});
+            user["image"] = new Image({
                 publicId: uploadedResponse.public_id,
                 secureUrl: uploadedResponse.secure_url
             });
         }
-        return this.storage.updateItem({_id: id}, { image: image});
-    }
-
-    async addUser(user) {
-
-        const imgFile  = user.hasOwnProperty("imgFile") ? user.imgFile : undefined;
-        if(imgFile !== undefined)
-            delete user.imgFile;
-
+        else {
+            user["image"] = new Image();
+        }
         user["password"] = await hashPassword(user["password"]);
         user["updatedAt"] = new Date();
-        const { _id } = await this.storage.addItem(user);
-        return await this.updateImage(_id, imgFile, undefined);
+        await this.storage.addItem(user);
     }
-
 
 
     async updateUser(id, old, user) {
         user["updatedAt"] = new Date();
 
-        const imgFile  = user.hasOwnProperty("imgFile") ? user.imgFile : undefined;
-        if(imgFile !== undefined)
+        const imgFile  = user?.imgFile;
+        if(imgFile !== undefined) {
             delete user.imgFile;
-
+            if (imgFile === "delete") {
+                await deleteImage(old.image.publicID);
+                user["image"] = new Image();
+            }
+            else {
+                await deleteImage(old.image.publicID);
+                const uploadedResponse = await cloudinary.v2.uploader.upload(imgFile, {upload_preset: "profile-preset"});
+                user["image"] = new Image({
+                    publicId: uploadedResponse.public_id,
+                    secureUrl: uploadedResponse.secure_url
+                });
+            }
+        }
         if (user.hasOwnProperty("createdAt"))
             delete user.createdAt;
 
         await this.storage.updateItem({_id: id}, user);
-        await this.updateImage(id, imgFile, old.image.publicId);
-
     }
 
     async deleteUser(id, image) {
